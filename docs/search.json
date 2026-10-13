@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "report.html",
+    "href": "report.html",
+    "title": "Guardian AI News Analysis",
+    "section": "",
+    "text": "Artificial intelligence appears in reporting about technology, business, education, politics, creative industries, and everyday life. Studying where these articles are published and which words recur provides a descriptive view of how a news organization covers the subject.\nThis project examines The Guardian’s AI-related reporting from January 2021 through December 2025. It combines a broad search corpus, a stricter relevance filter, a saved relevance audit, section-based classification, and topic modeling.\nThe research question is:\n\nHow did the volume and section distribution of retrieved AI-related articles change, and how well can article text and metadata predict Technology/Business section membership?\n\nThe study describes coverage within a query-defined corpus. It does not estimate AI’s share of all Guardian reporting, identify causal effects, or measure readers’ responses."
+  },
+  {
+    "objectID": "report.html#corpus-construction",
+    "href": "report.html#corpus-construction",
+    "title": "Guardian AI News Analysis",
+    "section": "Corpus construction",
+    "text": "Corpus construction\nThe source is the Guardian Content API. Articles were retrieved month by month for 2021–2025 using general AI terms, technical terms, and names associated with generative AI. Search terms include artificial intelligence, machine learning, generative AI, large language model, ChatGPT, deep learning, neural network, LLM, OpenAI, Google Gemini, Google DeepMind, Claude AI, DALL-E, and Midjourney.\nThe broad corpus is the deduplicated union of these search results. A strict subset retains articles with strong AI signals in keyword tags or headline and summary text. Standalone “AI” is excluded from the broad query and considered with relevant context in the stricter matching rules. Articles are deduplicated using their Guardian IDs.\nThe saved corpus contains 40,232 broad-search articles and 3,120 strict articles across 60 months. The strict corpus is 7.76% of the broad corpus. Both datasets have unique article IDs; all strict articles have headline and summary text.\nThe public repository contains aggregate outputs and audit labels. Article text is excluded. Rerunning corpus preparation or text models requires an authorized local dataset. Source access and use are subject to the Guardian Open Platform terms."
+  },
+  {
+    "objectID": "report.html#relevance-audit",
+    "href": "report.html#relevance-audit",
+    "title": "Guardian AI News Analysis",
+    "section": "Relevance audit",
+    "text": "Relevance audit\nThe saved audit contains 100 strict-corpus articles and 100 broad-but-not-strict articles. Labels distinguish core_ai_article, incidental_ai_mention, and unclear, based on the headline and summary. The audit compares the sampled groups; it does not establish the recall of the strict filter against all AI coverage.\nThe label file records 80 core AI articles in the strict sample and 1 in the broad-but-not-strict sample. The remaining articles are labeled incidental. Reviewer identity and independent verification are not recorded, so these figures summarize the supplied audit labels."
+  },
+  {
+    "objectID": "report.html#classification-task",
+    "href": "report.html#classification-task",
+    "title": "Guardian AI News Analysis",
+    "section": "Classification task",
+    "text": "Classification task\nThe target is tech_business_frame:\n\n1: an article appears in Technology or Business.\n0: an article appears in any other section.\n\nThe variable name refers to an operational proxy. The task predicts section membership, rather than a human-coded substantive frame. An article outside Technology or Business can still discuss technical or commercial issues, and the reverse is also possible.\nFeatures combine headline and summary TF-IDF unigrams and bigrams with publication time, word counts, tag counts, keyword indicators, editorial-format indicators, and VADER sentiment. Section name is excluded from predictors because it defines the target. Text vectorization and numeric preprocessing are fitted within the training pipeline.\nThe model comparison includes a majority-class baseline, logistic regression, random forest, and XGBoost when installed. An 80/20 stratified random split produces 2,496 training articles and 624 test articles. Accuracy, precision, recall, F1, and ROC-AUC are calculated on the test set; precision, recall, and F1 use Technology/Business as the positive class.\nThe displayed model is selected by test-set F1. There is no separate model-selection validation set or future-time holdout, so the comparison is exploratory. Original package versions were not recorded, and the committed scores represent a saved analysis snapshot."
+  },
+  {
+    "objectID": "report.html#topic-model",
+    "href": "report.html#topic-model",
+    "title": "Guardian AI News Analysis",
+    "section": "Topic model",
+    "text": "Topic model\nA six-topic latent Dirichlet allocation model uses word and phrase counts from strict-corpus headlines and summaries. Monthly topic prevalence is the mean document-topic weight in each month. Every article can contribute weight to multiple topics.\nTopic labels are assigned using keyword matching and fallback descriptions of high-weight terms. These labels aid inspection; they are not validated categories. The six-topic choice and short source texts constrain how much thematic detail the model can recover."
+  },
+  {
+    "objectID": "report.html#article-volume-and-editorial-placement",
+    "href": "report.html#article-volume-and-editorial-placement",
+    "title": "Guardian AI News Analysis",
+    "section": "Article volume and editorial placement",
+    "text": "Article volume and editorial placement\nThe strict corpus contains 1,457 Technology/Business articles (46.7%) and 1,663 articles in other sections (53.3%), distributed across 39 sections. This establishes that the retrieved AI-focused articles appear across a range of editorial sections. It does not by itself establish a shift in substantive framing over time.\n\n\n\nYear\nStrict articles\n\n\n\n\n2021\n138\n\n\n2022\n138\n\n\n2023\n846\n\n\n2024\n769\n\n\n2025\n1,229\n\n\n\nThe strict-corpus count is substantially higher in 2025 than in 2021, with a decrease in 2024 relative to 2023. Counts depend on search terms and relevance rules. Without a denominator for all Guardian articles, they do not measure the proportion of total reporting devoted to AI.\n\n\n\nRelevance labels in the two saved audit samples.\n\n\nThe strict sample has a larger share labeled core AI than the broad-but-not-strict sample. Its 20 incidental labels also show that the strict filter does not eliminate irrelevant or peripheral results.\n\n\n\nMonthly article counts in the broad and strict corpora.\n\n\n\n\n\nMost common editorial sections in the strict corpus.\n\n\nTechnology is the largest individual section, with 1,282 articles (41.1%). Opinion contributes 367 articles (11.8%) and Business contributes 175 (5.6%). Other sections include US news, World news, Australia news, Books, Film, Society, and Politics.\n\n\n\nMonthly section shares in the strict corpus.\n\n\nSection shares vary over time. Early months have small strict-corpus counts, making their proportions sensitive to individual articles. These descriptive changes do not identify the events or editorial decisions responsible for them."
+  },
+  {
+    "objectID": "report.html#classification-comparison",
+    "href": "report.html#classification-comparison",
+    "title": "Guardian AI News Analysis",
+    "section": "Classification comparison",
+    "text": "Classification comparison\n\nTable 1. Corpus construction summary\n\n\n\nMetric\nValue\n\n\n\n\nBroad corpus articles\n40,232\n\n\nStrict corpus articles\n3,120\n\n\nStrict share of broad corpus\n7.76%\n\n\nMonths covered\n60\n\n\nTechnology/Business section articles\n1,457\n\n\nArticles in other sections\n1,663\n\n\n\n\n\nTable 2. Manual audit summary\n\n\n\nAudit group\nLabeled articles\nCore AI articles\nCore AI share\n\n\n\n\nBroad but not strict\n100\n1\n1.0%\n\n\nStrict corpus\n100\n80\n80.0%\n\n\n\n\n\nTable 3. Classification model performance on the test set\n\n\n\nModel\nAccuracy\nPrecision\nRecall\nF1\nROC-AUC\n\n\n\n\nXGBoost\n0.764\n0.742\n0.759\n0.750\n0.847\n\n\nLogistic regression\n0.745\n0.717\n0.749\n0.733\n0.838\n\n\nRandom forest\n0.737\n0.728\n0.698\n0.712\n0.837\n\n\nMajority baseline\n0.534\n0.000\n0.000\n0.000\n0.500\n\n\n\nThe saved XGBoost result has the highest test F1 among compared models: accuracy 0.764, precision 0.742, recall 0.759, F1 0.750, and ROC-AUC 0.847. The majority-class baseline achieves 0.534 accuracy. This indicates that text and metadata contain predictive information about section membership in this retrospective split.\n\n\n\nClassification scores on the saved test split.\n\n\n\n\n\nConfusion matrix for the selected model.\n\n\nThe confusion matrix shows both kinds of section-membership error. These errors should not be interpreted as incorrect judgments about an article’s substantive framing, because reference labels come from editorial sections.\n\n\n\nHighest-ranked features for the selected model.\n\n\nHigh-ranked saved features include the OpenAI indicator, editorial-format flags, and terms such as “openai” and “company.” Feature importance describes the fitted model’s use of predictors; it does not show that these features cause an article to appear in a particular section."
+  },
+  {
+    "objectID": "report.html#topic-words-and-monthly-weights",
+    "href": "report.html#topic-words-and-monthly-weights",
+    "title": "Guardian AI News Analysis",
+    "section": "Topic words and monthly weights",
+    "text": "Topic words and monthly weights\n\nLDA topic labels and top terms\n\n\n\n\n\n\n\nTopic label\nTop terms\n\n\n\n\nAI tools and ChatGPT\nintelligence, artificial, artificial intelligence, experts, tool, music, human, future\n\n\nTopic 2: chatgpt, images, just\nchatgpt, images, just, students, models, ai-generated, human, robots\n\n\nTopic 3: openai, musk, media\nopenai, musk, media, elon, chatbot, elon musk, social, tech\n\n\nTopic 4: intelligence, artificial, artificial intelligence\nintelligence, artificial, artificial intelligence, tech, chatgpt, help, week, human\n\n\nTopic 5: nvidia, company, openai\nnvidia, company, openai, child, firm, amid, study, abuse\n\n\nEducation and work\ntech, big, firms, government, jobs, companies, big tech, trump\n\n\n\nThe topic word groups include references to AI tools, ChatGPT and images, OpenAI and media, general AI discussion, companies, and work. Several groups share common AI terms, and some labels are broader than their top words alone support. They are best used to inspect the corpus alongside the keyword table, rather than as a fixed taxonomy of AI reporting.\n\n\n\nMonthly mean LDA topic weights in the strict corpus.\n\n\nThe chart tracks changes in mean model-estimated topic weight. A value of 0.20 means that the topic receives an average of one fifth of each document’s topic weight that month; it does not mean exactly one fifth of articles belong exclusively to that topic. The interactive chart page displays a trailing three-month rolling mean, with raw monthly values available on hover."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Guardian AI News Analysis",
+    "section": "",
+    "text": "This project examines how AI-related reporting appeared across The Guardian between January 2021 and December 2025. It combines relevance filtering, a saved article audit, text classification, and six-topic LDA with charts that can be explored by month.\nThe analysis asks two related questions:"
+  },
+  {
+    "objectID": "index.html#what-the-data-show",
+    "href": "index.html#what-the-data-show",
+    "title": "Guardian AI News Analysis",
+    "section": "What the data show",
+    "text": "What the data show\n\n40,232 articles were retrieved by broad AI-related searches; 3,120 passed the stricter relevance rules.\nThe strict corpus spans 39 sections. 53.3% of its articles appeared outside Technology and Business.\nStrict-corpus volume was 138 articles in 2021 and 1,229 in 2025, with a decrease in 2024 relative to 2023.\nIn the saved relevance audit, 80 of 100 strict articles and 1 of 100 broad-but-not-strict articles were labeled core AI.\nThe saved XGBoost result reached 0.764 accuracy and 0.750 F1 on a stratified holdout. The majority baseline achieved 0.534 accuracy.\n\n\n\n\nMonthly article counts in the broad and strict corpora.\n\n\nThese results describe a retrieved corpus from one publisher. Section membership measures editorial placement and serves only as a proxy for framing. The model scores are a saved retrospective comparison, and topic names are interpretations of word groups."
+  },
+  {
+    "objectID": "index.html#explore-the-project",
+    "href": "index.html#explore-the-project",
+    "title": "Guardian AI News Analysis",
+    "section": "Explore the project",
+    "text": "Explore the project\n\nInteractive charts: monthly volume, section shares, and topic weights.\nAnalysis report: data construction, methods, results, and limitations.\n\nThe repository distributes aggregate results and audit labels. Reproducing the text models requires an authorized local article dataset; article text is not included in the public project."
+  },
+  {
+    "objectID": "viz.html",
+    "href": "viz.html",
+    "title": "Explore the Coverage",
+    "section": "",
+    "text": "Hover to inspect values, click legend entries to hide or show series, and drag to zoom. The charts summarize the retrieved corpus from January 2021 to December 2025."
+  },
+  {
+    "objectID": "viz.html#monthly-article-volume",
+    "href": "viz.html#monthly-article-volume",
+    "title": "Explore the Coverage",
+    "section": "Monthly article volume",
+    "text": "Monthly article volume\nThe broad corpus contains the union of AI-related search results. The strict corpus retains articles with stronger AI signals in tags, headlines, or summaries. Counts reflect the search and filtering rules, rather than all AI reporting or the share of the publisher’s total output."
+  },
+  {
+    "objectID": "viz.html#section-composition",
+    "href": "viz.html#section-composition",
+    "title": "Explore the Coverage",
+    "section": "Section composition",
+    "text": "Section composition\nMonthly shares show where strict-corpus articles appeared. Sections describe editorial placement; they are not independently labeled content frames. Early months contain few strict articles, so their shares can change sharply with a small number of stories."
+  },
+  {
+    "objectID": "viz.html#topic-weights",
+    "href": "viz.html#topic-weights",
+    "title": "Explore the Coverage",
+    "section": "Topic weights",
+    "text": "Topic weights\nEach line is the monthly mean document weight for one of six LDA topics, fitted using headlines and summaries. The lines display a trailing three-month rolling mean; hovering also shows the raw monthly weight. Topic names summarize high-weight words and may overlap. These weights are model estimates, rather than the percentage of articles assigned exclusively to a theme.\n\n\nSee the analysis report for topic keywords and the limits of these interpretations."
+  }
+]

@@ -1,0 +1,361 @@
+month,topic_id,topic_label,topic_share
+2021-01-01,0,AI tools and ChatGPT,0.20679079838101372
+2021-01-01,1,"Topic 2: chatgpt, images, just",0.18863969580385567
+2021-01-01,2,"Topic 3: openai, musk, media",0.12634102077627962
+2021-01-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.2638621741867803
+2021-01-01,4,"Topic 5: nvidia, company, openai",0.090911958134793
+2021-01-01,5,Education and work,0.12345435271727775
+2021-02-01,0,AI tools and ChatGPT,0.3737121453522773
+2021-02-01,1,"Topic 2: chatgpt, images, just",0.0358342382514185
+2021-02-01,2,"Topic 3: openai, musk, media",0.11631620650946657
+2021-02-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.18019097509496634
+2021-02-01,4,"Topic 5: nvidia, company, openai",0.011019810873928127
+2021-02-01,5,Education and work,0.28292662391794315
+2021-03-01,0,AI tools and ChatGPT,0.21192789872109122
+2021-03-01,1,"Topic 2: chatgpt, images, just",0.13879266250899264
+2021-03-01,2,"Topic 3: openai, musk, media",0.15650027842174882
+2021-03-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.16863929798782554
+2021-03-01,4,"Topic 5: nvidia, company, openai",0.13927973013207284
+2021-03-01,5,Education and work,0.1848601322282689
+2021-04-01,0,AI tools and ChatGPT,0.07687731906757064
+2021-04-01,1,"Topic 2: chatgpt, images, just",0.39310281804049746
+2021-04-01,2,"Topic 3: openai, musk, media",0.1365960690554892
+2021-04-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.013153700937525324
+2021-04-01,4,"Topic 5: nvidia, company, openai",0.12137903550886121
+2021-04-01,5,Education and work,0.25889105739005613
+2021-05-01,0,AI tools and ChatGPT,0.23456948661271884
+2021-05-01,1,"Topic 2: chatgpt, images, just",0.1002635521673766
+2021-05-01,2,"Topic 3: openai, musk, media",0.05213221035042883
+2021-05-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.3200180055002019
+2021-05-01,4,"Topic 5: nvidia, company, openai",0.1704518004632929
+2021-05-01,5,Education and work,0.12256494490598098
+2021-06-01,0,AI tools and ChatGPT,0.29010985988265914
+2021-06-01,1,"Topic 2: chatgpt, images, just",0.14602439897872185
+2021-06-01,2,"Topic 3: openai, musk, media",0.044937233654741844
+2021-06-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.2913050873385027
+2021-06-01,4,"Topic 5: nvidia, company, openai",0.11562876794727517
+2021-06-01,5,Education and work,0.11199465219809926
+2021-07-01,0,AI tools and ChatGPT,0.0749657376156581
+2021-07-01,1,"Topic 2: chatgpt, images, just",0.15909244657445987
+2021-07-01,2,"Topic 3: openai, musk, media",0.039125833142736495
+2021-07-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.37941304311813406
+2021-07-01,4,"Topic 5: nvidia, company, openai",0.232927275872402
+2021-07-01,5,Education and work,0.11447566367660945
+2021-08-01,0,AI tools and ChatGPT,0.5822381138935468
+2021-08-01,1,"Topic 2: chatgpt, images, just",0.04088802977729426
+2021-08-01,2,"Topic 3: openai, musk, media",0.0579791362728061
+2021-08-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.03832455414351026
+2021-08-01,4,"Topic 5: nvidia, company, openai",0.10445998132662367
+2021-08-01,5,Education and work,0.17611018458621885
+2021-09-01,0,AI tools and ChatGPT,0.07529377325360677
+2021-09-01,1,"Topic 2: chatgpt, images, just",0.21018873062177262
+2021-09-01,2,"Topic 3: openai, musk, media",0.12218915881423956
+2021-09-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.19788197095371854
+2021-09-01,4,"Topic 5: nvidia, company, openai",0.26065197036098947
+2021-09-01,5,Education and work,0.13379439599567294
+2021-10-01,0,AI tools and ChatGPT,0.14829138434744618
+2021-10-01,1,"Topic 2: chatgpt, images, just",0.21974417896512863
+2021-10-01,2,"Topic 3: openai, musk, media",0.0504616832287869
+2021-10-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.37470056404424357
+2021-10-01,4,"Topic 5: nvidia, company, openai",0.08715655493027931
+2021-10-01,5,Education and work,0.11964563448411548
+2021-11-01,0,AI tools and ChatGPT,0.18284855878672673
+2021-11-01,1,"Topic 2: chatgpt, images, just",0.15530343172743438
+2021-11-01,2,"Topic 3: openai, musk, media",0.12889958524917422
+2021-11-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.23468289606169837
+2021-11-01,4,"Topic 5: nvidia, company, openai",0.20988786564042697
+2021-11-01,5,Education and work,0.08837766253453935
+2021-12-01,0,AI tools and ChatGPT,0.14103350527036324
+2021-12-01,1,"Topic 2: chatgpt, images, just",0.13852533238784262
+2021-12-01,2,"Topic 3: openai, musk, media",0.13624561228965343
+2021-12-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.21871235707642875
+2021-12-01,4,"Topic 5: nvidia, company, openai",0.012567422970072536
+2021-12-01,5,Education and work,0.3529157700056394
+2022-01-01,0,AI tools and ChatGPT,0.18538081755049737
+2022-01-01,1,"Topic 2: chatgpt, images, just",0.07714476228727529
+2022-01-01,2,"Topic 3: openai, musk, media",0.21315954278728325
+2022-01-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.23077616510003962
+2022-01-01,4,"Topic 5: nvidia, company, openai",0.1464155361602144
+2022-01-01,5,Education and work,0.14712317611469014
+2022-02-01,0,AI tools and ChatGPT,0.29577320643979615
+2022-02-01,1,"Topic 2: chatgpt, images, just",0.10655436037295553
+2022-02-01,2,"Topic 3: openai, musk, media",0.06730050721084266
+2022-02-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.4440555822437104
+2022-02-01,4,"Topic 5: nvidia, company, openai",0.05149228977739686
+2022-02-01,5,Education and work,0.03482405395529843
+2022-03-01,0,AI tools and ChatGPT,0.21708697531860746
+2022-03-01,1,"Topic 2: chatgpt, images, just",0.12148105850717614
+2022-03-01,2,"Topic 3: openai, musk, media",0.10610116394462915
+2022-03-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.24178755846354757
+2022-03-01,4,"Topic 5: nvidia, company, openai",0.20163521895670689
+2022-03-01,5,Education and work,0.11190802480933273
+2022-04-01,0,AI tools and ChatGPT,0.3475445476903682
+2022-04-01,1,"Topic 2: chatgpt, images, just",0.23922069810881
+2022-04-01,2,"Topic 3: openai, musk, media",0.011429360600427253
+2022-04-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.2757904641882117
+2022-04-01,4,"Topic 5: nvidia, company, openai",0.1031753766953342
+2022-04-01,5,Education and work,0.02283955271684869
+2022-05-01,0,AI tools and ChatGPT,0.28277083872379183
+2022-05-01,1,"Topic 2: chatgpt, images, just",0.1484790213350495
+2022-05-01,2,"Topic 3: openai, musk, media",0.07996558047275562
+2022-05-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.20127365812177586
+2022-05-01,4,"Topic 5: nvidia, company, openai",0.22596547296241365
+2022-05-01,5,Education and work,0.061545428384213466
+2022-06-01,0,AI tools and ChatGPT,0.19449788282815503
+2022-06-01,1,"Topic 2: chatgpt, images, just",0.23582929970362038
+2022-06-01,2,"Topic 3: openai, musk, media",0.1196073876355775
+2022-06-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.14821404646762396
+2022-06-01,4,"Topic 5: nvidia, company, openai",0.1842470264186931
+2022-06-01,5,Education and work,0.11760435694633006
+2022-07-01,0,AI tools and ChatGPT,0.31968315114804857
+2022-07-01,1,"Topic 2: chatgpt, images, just",0.08491798066437109
+2022-07-01,2,"Topic 3: openai, musk, media",0.17240283838113785
+2022-07-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.14582019300952515
+2022-07-01,4,"Topic 5: nvidia, company, openai",0.20543458269068574
+2022-07-01,5,Education and work,0.07174125410623157
+2022-08-01,0,AI tools and ChatGPT,0.10265108151213045
+2022-08-01,1,"Topic 2: chatgpt, images, just",0.10974996465819628
+2022-08-01,2,"Topic 3: openai, musk, media",0.12132571287907559
+2022-08-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.5032257231520146
+2022-08-01,4,"Topic 5: nvidia, company, openai",0.04482370135363778
+2022-08-01,5,Education and work,0.11822381644494524
+2022-09-01,0,AI tools and ChatGPT,0.3300811911212289
+2022-09-01,1,"Topic 2: chatgpt, images, just",0.19678314208890485
+2022-09-01,2,"Topic 3: openai, musk, media",0.12772108031014787
+2022-09-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.13087716478891848
+2022-09-01,4,"Topic 5: nvidia, company, openai",0.0703457615336098
+2022-09-01,5,Education and work,0.14419166015719012
+2022-10-01,0,AI tools and ChatGPT,0.23709286536607577
+2022-10-01,1,"Topic 2: chatgpt, images, just",0.11372965766834764
+2022-10-01,2,"Topic 3: openai, musk, media",0.04973855127289512
+2022-10-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.25114291775528874
+2022-10-01,4,"Topic 5: nvidia, company, openai",0.25384456280823076
+2022-10-01,5,Education and work,0.09445144512916197
+2022-11-01,0,AI tools and ChatGPT,0.2920959556634657
+2022-11-01,1,"Topic 2: chatgpt, images, just",0.03613466600542279
+2022-11-01,2,"Topic 3: openai, musk, media",0.054039407036680996
+2022-11-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.4367381640368648
+2022-11-01,4,"Topic 5: nvidia, company, openai",0.07154827864695722
+2022-11-01,5,Education and work,0.10944352861060845
+2022-12-01,0,AI tools and ChatGPT,0.14361426004811279
+2022-12-01,1,"Topic 2: chatgpt, images, just",0.18176869688122815
+2022-12-01,2,"Topic 3: openai, musk, media",0.20783893074713472
+2022-12-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.3890654445353375
+2022-12-01,4,"Topic 5: nvidia, company, openai",0.03511367286447118
+2022-12-01,5,Education and work,0.042598994923715744
+2023-01-01,0,AI tools and ChatGPT,0.16443936551427718
+2023-01-01,1,"Topic 2: chatgpt, images, just",0.22311934308092674
+2023-01-01,2,"Topic 3: openai, musk, media",0.10378950367811297
+2023-01-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.30940971758553526
+2023-01-01,4,"Topic 5: nvidia, company, openai",0.07061891963978711
+2023-01-01,5,Education and work,0.12862315050136075
+2023-02-01,0,AI tools and ChatGPT,0.15881814365115035
+2023-02-01,1,"Topic 2: chatgpt, images, just",0.1962964218198474
+2023-02-01,2,"Topic 3: openai, musk, media",0.26924101806220224
+2023-02-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.1857701996598287
+2023-02-01,4,"Topic 5: nvidia, company, openai",0.0687094947825127
+2023-02-01,5,Education and work,0.1211647220244586
+2023-03-01,0,AI tools and ChatGPT,0.2283291930849887
+2023-03-01,1,"Topic 2: chatgpt, images, just",0.15726438013417543
+2023-03-01,2,"Topic 3: openai, musk, media",0.14133822131264845
+2023-03-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.3284104375256493
+2023-03-01,4,"Topic 5: nvidia, company, openai",0.059139916855177
+2023-03-01,5,Education and work,0.08551785108736111
+2023-04-01,0,AI tools and ChatGPT,0.19836713510762372
+2023-04-01,1,"Topic 2: chatgpt, images, just",0.14148225918676
+2023-04-01,2,"Topic 3: openai, musk, media",0.16100252922903072
+2023-04-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.2192693378368324
+2023-04-01,4,"Topic 5: nvidia, company, openai",0.10203368958285718
+2023-04-01,5,Education and work,0.177845049056896
+2023-05-01,0,AI tools and ChatGPT,0.20597412242902938
+2023-05-01,1,"Topic 2: chatgpt, images, just",0.1284313848067462
+2023-05-01,2,"Topic 3: openai, musk, media",0.14312864622415583
+2023-05-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.1826869645695239
+2023-05-01,4,"Topic 5: nvidia, company, openai",0.12391113647920211
+2023-05-01,5,Education and work,0.21586774549134252
+2023-06-01,0,AI tools and ChatGPT,0.2250785987414909
+2023-06-01,1,"Topic 2: chatgpt, images, just",0.07574122610594433
+2023-06-01,2,"Topic 3: openai, musk, media",0.1575682401203098
+2023-06-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.23455242938665488
+2023-06-01,4,"Topic 5: nvidia, company, openai",0.08470460841151607
+2023-06-01,5,Education and work,0.22235489723408397
+2023-07-01,0,AI tools and ChatGPT,0.18143982187867394
+2023-07-01,1,"Topic 2: chatgpt, images, just",0.15278774425559982
+2023-07-01,2,"Topic 3: openai, musk, media",0.14062925806662543
+2023-07-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.17852254940315324
+2023-07-01,4,"Topic 5: nvidia, company, openai",0.15449547027085028
+2023-07-01,5,Education and work,0.19212515612509726
+2023-08-01,0,AI tools and ChatGPT,0.2110685002893507
+2023-08-01,1,"Topic 2: chatgpt, images, just",0.15916892846234248
+2023-08-01,2,"Topic 3: openai, musk, media",0.12177923375134074
+2023-08-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.2015760544610906
+2023-08-01,4,"Topic 5: nvidia, company, openai",0.13045495735813814
+2023-08-01,5,Education and work,0.17595232567773733
+2023-09-01,0,AI tools and ChatGPT,0.1854416881859982
+2023-09-01,1,"Topic 2: chatgpt, images, just",0.16510528761784998
+2023-09-01,2,"Topic 3: openai, musk, media",0.1924998422428822
+2023-09-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.2095571124211471
+2023-09-01,4,"Topic 5: nvidia, company, openai",0.10860609854910352
+2023-09-01,5,Education and work,0.13878997098301904
+2023-10-01,0,AI tools and ChatGPT,0.1860116775694151
+2023-10-01,1,"Topic 2: chatgpt, images, just",0.17104720710521107
+2023-10-01,2,"Topic 3: openai, musk, media",0.18738358515250347
+2023-10-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.1927559094209249
+2023-10-01,4,"Topic 5: nvidia, company, openai",0.13329847315948787
+2023-10-01,5,Education and work,0.12950314759245757
+2023-11-01,0,AI tools and ChatGPT,0.15621629893515598
+2023-11-01,1,"Topic 2: chatgpt, images, just",0.11568417311188778
+2023-11-01,2,"Topic 3: openai, musk, media",0.3485241225140721
+2023-11-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.17951904958464848
+2023-11-01,4,"Topic 5: nvidia, company, openai",0.09045511764604908
+2023-11-01,5,Education and work,0.10960123820818655
+2023-12-01,0,AI tools and ChatGPT,0.1479593195520392
+2023-12-01,1,"Topic 2: chatgpt, images, just",0.1141480075755139
+2023-12-01,2,"Topic 3: openai, musk, media",0.23849559411146054
+2023-12-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.1936404795762957
+2023-12-01,4,"Topic 5: nvidia, company, openai",0.20757986741473256
+2023-12-01,5,Education and work,0.09817673176995817
+2024-01-01,0,AI tools and ChatGPT,0.11997269415345482
+2024-01-01,1,"Topic 2: chatgpt, images, just",0.17108005699293935
+2024-01-01,2,"Topic 3: openai, musk, media",0.21211796736629362
+2024-01-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.2146924795046386
+2024-01-01,4,"Topic 5: nvidia, company, openai",0.10339639692942641
+2024-01-01,5,Education and work,0.1787404050532472
+2024-02-01,0,AI tools and ChatGPT,0.11324205107316672
+2024-02-01,1,"Topic 2: chatgpt, images, just",0.13458382222687015
+2024-02-01,2,"Topic 3: openai, musk, media",0.2211426499621605
+2024-02-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.17845087324572345
+2024-02-01,4,"Topic 5: nvidia, company, openai",0.20542174839045416
+2024-02-01,5,Education and work,0.14715885510162502
+2024-03-01,0,AI tools and ChatGPT,0.16200803618667703
+2024-03-01,1,"Topic 2: chatgpt, images, just",0.10786594787302763
+2024-03-01,2,"Topic 3: openai, musk, media",0.23593976966307537
+2024-03-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.1988613153939751
+2024-03-01,4,"Topic 5: nvidia, company, openai",0.11789725879484632
+2024-03-01,5,Education and work,0.17742767208839855
+2024-04-01,0,AI tools and ChatGPT,0.07915859935244163
+2024-04-01,1,"Topic 2: chatgpt, images, just",0.17242868799989508
+2024-04-01,2,"Topic 3: openai, musk, media",0.11123618838583484
+2024-04-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.2160442236851107
+2024-04-01,4,"Topic 5: nvidia, company, openai",0.2384346498856672
+2024-04-01,5,Education and work,0.18269765069105057
+2024-05-01,0,AI tools and ChatGPT,0.1201816557234741
+2024-05-01,1,"Topic 2: chatgpt, images, just",0.14263692875384462
+2024-05-01,2,"Topic 3: openai, musk, media",0.2776314429177571
+2024-05-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.2144916709651432
+2024-05-01,4,"Topic 5: nvidia, company, openai",0.1355055027496863
+2024-05-01,5,Education and work,0.10955279889009462
+2024-06-01,0,AI tools and ChatGPT,0.15042049598810847
+2024-06-01,1,"Topic 2: chatgpt, images, just",0.16541508247666195
+2024-06-01,2,"Topic 3: openai, musk, media",0.0990114484761703
+2024-06-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.22660694006679774
+2024-06-01,4,"Topic 5: nvidia, company, openai",0.13994045765983018
+2024-06-01,5,Education and work,0.21860557533243138
+2024-07-01,0,AI tools and ChatGPT,0.13375103547044676
+2024-07-01,1,"Topic 2: chatgpt, images, just",0.10313707210610007
+2024-07-01,2,"Topic 3: openai, musk, media",0.15421480481997232
+2024-07-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.2560825011007278
+2024-07-01,4,"Topic 5: nvidia, company, openai",0.14842134889801928
+2024-07-01,5,Education and work,0.20439323760473382
+2024-08-01,0,AI tools and ChatGPT,0.12166637777195623
+2024-08-01,1,"Topic 2: chatgpt, images, just",0.17284551311902127
+2024-08-01,2,"Topic 3: openai, musk, media",0.21231575582779103
+2024-08-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.1435220720471739
+2024-08-01,4,"Topic 5: nvidia, company, openai",0.13984157546708054
+2024-08-01,5,Education and work,0.2098087057669771
+2024-09-01,0,AI tools and ChatGPT,0.15484924127014282
+2024-09-01,1,"Topic 2: chatgpt, images, just",0.08380073760783908
+2024-09-01,2,"Topic 3: openai, musk, media",0.1547014698948444
+2024-09-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.23835616816050703
+2024-09-01,4,"Topic 5: nvidia, company, openai",0.17009310377659728
+2024-09-01,5,Education and work,0.1981992792900694
+2024-10-01,0,AI tools and ChatGPT,0.18677080100467486
+2024-10-01,1,"Topic 2: chatgpt, images, just",0.13348399779451173
+2024-10-01,2,"Topic 3: openai, musk, media",0.13055487206713157
+2024-10-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.14042642123096646
+2024-10-01,4,"Topic 5: nvidia, company, openai",0.20150414418327578
+2024-10-01,5,Education and work,0.20725976371943963
+2024-11-01,0,AI tools and ChatGPT,0.10559416260805576
+2024-11-01,1,"Topic 2: chatgpt, images, just",0.13602131146729338
+2024-11-01,2,"Topic 3: openai, musk, media",0.1663832466096445
+2024-11-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.24356671853344164
+2024-11-01,4,"Topic 5: nvidia, company, openai",0.11659147839683456
+2024-11-01,5,Education and work,0.2318430823847302
+2024-12-01,0,AI tools and ChatGPT,0.18760105520522385
+2024-12-01,1,"Topic 2: chatgpt, images, just",0.10504752791029473
+2024-12-01,2,"Topic 3: openai, musk, media",0.14916999434239728
+2024-12-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.1904324633390881
+2024-12-01,4,"Topic 5: nvidia, company, openai",0.14931541529623274
+2024-12-01,5,Education and work,0.21843354390676334
+2025-01-01,0,AI tools and ChatGPT,0.14028350991972435
+2025-01-01,1,"Topic 2: chatgpt, images, just",0.09091585283209112
+2025-01-01,2,"Topic 3: openai, musk, media",0.14061765449033356
+2025-01-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.18546892449486274
+2025-01-01,4,"Topic 5: nvidia, company, openai",0.08781175043715599
+2025-01-01,5,Education and work,0.35490230782583226
+2025-02-01,0,AI tools and ChatGPT,0.08550505274635214
+2025-02-01,1,"Topic 2: chatgpt, images, just",0.11051695183271112
+2025-02-01,2,"Topic 3: openai, musk, media",0.15541137380686543
+2025-02-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.19420148654868105
+2025-02-01,4,"Topic 5: nvidia, company, openai",0.12846109198563171
+2025-02-01,5,Education and work,0.3259040430797585
+2025-03-01,0,AI tools and ChatGPT,0.1795793880059387
+2025-03-01,1,"Topic 2: chatgpt, images, just",0.14262405899234717
+2025-03-01,2,"Topic 3: openai, musk, media",0.14455231651605438
+2025-03-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.24830953637742428
+2025-03-01,4,"Topic 5: nvidia, company, openai",0.12711908556985285
+2025-03-01,5,Education and work,0.1578156145383826
+2025-04-01,0,AI tools and ChatGPT,0.17618427241855264
+2025-04-01,1,"Topic 2: chatgpt, images, just",0.07349808999901863
+2025-04-01,2,"Topic 3: openai, musk, media",0.16303045137751213
+2025-04-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.17044607247502302
+2025-04-01,4,"Topic 5: nvidia, company, openai",0.14392915481394747
+2025-04-01,5,Education and work,0.27291195891594605
+2025-05-01,0,AI tools and ChatGPT,0.15931326894247727
+2025-05-01,1,"Topic 2: chatgpt, images, just",0.18914735288120813
+2025-05-01,2,"Topic 3: openai, musk, media",0.15950902580070841
+2025-05-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.1534995160191779
+2025-05-01,4,"Topic 5: nvidia, company, openai",0.136554413692912
+2025-05-01,5,Education and work,0.20197642266351631
+2025-06-01,0,AI tools and ChatGPT,0.21564440338643
+2025-06-01,1,"Topic 2: chatgpt, images, just",0.1428396086437754
+2025-06-01,2,"Topic 3: openai, musk, media",0.13128256941357452
+2025-06-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.1717320936303231
+2025-06-01,4,"Topic 5: nvidia, company, openai",0.08375435803251079
+2025-06-01,5,Education and work,0.2547469668933862
+2025-07-01,0,AI tools and ChatGPT,0.14754872102554584
+2025-07-01,1,"Topic 2: chatgpt, images, just",0.16693709293747022
+2025-07-01,2,"Topic 3: openai, musk, media",0.2232635285040225
+2025-07-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.148292907138975
+2025-07-01,4,"Topic 5: nvidia, company, openai",0.1079438219273444
+2025-07-01,5,Education and work,0.20601392846664204
+2025-08-01,0,AI tools and ChatGPT,0.1667827921188784
+2025-08-01,1,"Topic 2: chatgpt, images, just",0.13049893208041666
+2025-08-01,2,"Topic 3: openai, musk, media",0.15129127454676036
+2025-08-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.1713975771730578
+2025-08-01,4,"Topic 5: nvidia, company, openai",0.1253621874320654
+2025-08-01,5,Education and work,0.25466723664882135
+2025-09-01,0,AI tools and ChatGPT,0.13933249202999212
+2025-09-01,1,"Topic 2: chatgpt, images, just",0.1467057658763176
+2025-09-01,2,"Topic 3: openai, musk, media",0.15620520856834186
+2025-09-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.17075059478994364
+2025-09-01,4,"Topic 5: nvidia, company, openai",0.13717561609715836
+2025-09-01,5,Education and work,0.24983032263824645
+2025-10-01,0,AI tools and ChatGPT,0.15979940667034517
+2025-10-01,1,"Topic 2: chatgpt, images, just",0.19070187925966453
+2025-10-01,2,"Topic 3: openai, musk, media",0.13574167588912134
+2025-10-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.14376200351380022
+2025-10-01,4,"Topic 5: nvidia, company, openai",0.16075565390221155
+2025-10-01,5,Education and work,0.20923938076485718
+2025-11-01,0,AI tools and ChatGPT,0.15131642547391827
+2025-11-01,1,"Topic 2: chatgpt, images, just",0.17478623693196219
+2025-11-01,2,"Topic 3: openai, musk, media",0.16477715135333618
+2025-11-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.13570583367385192
+2025-11-01,4,"Topic 5: nvidia, company, openai",0.1223332632590506
+2025-11-01,5,Education and work,0.2510810893078809
+2025-12-01,0,AI tools and ChatGPT,0.181429396287567
+2025-12-01,1,"Topic 2: chatgpt, images, just",0.14930012366390957
+2025-12-01,2,"Topic 3: openai, musk, media",0.17992360348483644
+2025-12-01,3,"Topic 4: intelligence, artificial, artificial intelligence",0.13755398161388052
+2025-12-01,4,"Topic 5: nvidia, company, openai",0.1189991291236183
+2025-12-01,5,Education and work,0.2327937658261882

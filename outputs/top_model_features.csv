@@ -1,0 +1,2534 @@
+feature,importance,signed_coefficient,importance_type,model
+numeric__has_openai,0.04777089,,tree impurity importance,XGBoost
+numeric__format_comment,0.031648204,,tree impurity importance,XGBoost
+numeric__format_news,0.019613545,,tree impurity importance,XGBoost
+text__openai,0.01172363,,tree impurity importance,XGBoost
+numeric__format_reviews,0.010107317,,tree impurity importance,XGBoost
+text__company,0.008907901,,tree impurity importance,XGBoost
+text__safety,0.008186928,,tree impurity importance,XGBoost
+text__google,0.0078004743,,tree impurity importance,XGBoost
+text__camera,0.007730073,,tree impurity importance,XGBoost
+text__techscape,0.0076239766,,tree impurity importance,XGBoost
+text__review,0.007194409,,tree impurity importance,XGBoost
+text__global,0.006928522,,tree impurity importance,XGBoost
+text__wall,0.0069173304,,tree impurity importance,XGBoost
+text__brief,0.006905277,,tree impurity importance,XGBoost
+text__elon musk,0.006894709,,tree impurity importance,XGBoost
+numeric__has_copyright_creativity,0.006807284,,tree impurity importance,XGBoost
+text__nvidia,0.0066749877,,tree impurity importance,XGBoost
+text__letters,0.0065765097,,tree impurity importance,XGBoost
+text__meta,0.006472117,,tree impurity importance,XGBoost
+text__creative,0.0061699557,,tree impurity importance,XGBoost
+text__media,0.006138751,,tree impurity importance,XGBoost
+text__finds,0.0057469057,,tree impurity importance,XGBoost
+text__apple,0.0056439512,,tree impurity importance,XGBoost
+text__market,0.0055908845,,tree impurity importance,XGBoost
+text__risks,0.0055362177,,tree impurity importance,XGBoost
+text__trump,0.0054914625,,tree impurity importance,XGBoost
+numeric__format_explainers,0.005367952,,tree impurity importance,XGBoost
+text__summit,0.0053399117,,tree impurity importance,XGBoost
+text__jobs,0.0053217593,,tree impurity importance,XGBoost
+text__experts,0.0051237,,tree impurity importance,XGBoost
+text__cancer,0.0051236623,,tree impurity importance,XGBoost
+text__firm,0.0050551407,,tree impurity importance,XGBoost
+numeric__has_risk_ethics,0.005005113,,tree impurity importance,XGBoost
+text__university,0.0049548084,,tree impurity importance,XGBoost
+text__copyright,0.004865016,,tree impurity importance,XGBoost
+text__climate,0.0046981904,,tree impurity importance,XGBoost
+text__economic,0.0046653803,,tree impurity importance,XGBoost
+text__chatgpt,0.004610512,,tree impurity importance,XGBoost
+text__nhs,0.0046035405,,tree impurity importance,XGBoost
+text__using,0.0045642545,,tree impurity importance,XGBoost
+text__firms,0.004555299,,tree impurity importance,XGBoost
+text__elon,0.0045327465,,tree impurity importance,XGBoost
+text__uk,0.0045304876,,tree impurity importance,XGBoost
+text__musk,0.0044909134,,tree impurity importance,XGBoost
+text__like,0.0044623986,,tree impurity importance,XGBoost
+text__brief letters,0.004451903,,tree impurity importance,XGBoost
+text__new book,0.00442122,,tree impurity importance,XGBoost
+numeric__has_regulation,0.0044140564,,tree impurity importance,XGBoost
+text__chatbot,0.0043867915,,tree impurity importance,XGBoost
+text__use ai,0.0043523423,,tree impurity importance,XGBoost
+text__rise,0.0043330146,,tree impurity importance,XGBoost
+text__bush,0.0043251845,,tree impurity importance,XGBoost
+text__chatbots,0.004254003,,tree impurity importance,XGBoost
+text__ai startup,0.004210004,,tree impurity importance,XGBoost
+numeric__has_education,0.0041882815,,tree impurity importance,XGBoost
+text__phone,0.004171653,,tree impurity importance,XGBoost
+numeric__text_word_count,0.004144165,,tree impurity importance,XGBoost
+text__machine learning,0.004138728,,tree impurity importance,XGBoost
+numeric__format_analysis,0.004136609,,tree impurity importance,XGBoost
+text__microsoft,0.004095689,,tree impurity importance,XGBoost
+text__users,0.004085264,,tree impurity importance,XGBoost
+text__work,0.0040797377,,tree impurity importance,XGBoost
+text__today,0.004043201,,tree impurity importance,XGBoost
+text__training,0.004039439,,tree impurity importance,XGBoost
+text__watchdog,0.0040335204,,tree impurity importance,XGBoost
+text__report,0.0040325904,,tree impurity importance,XGBoost
+text__business,0.0039397874,,tree impurity importance,XGBoost
+text__deepseek,0.0039045704,,tree impurity importance,XGBoost
+text__tech,0.0038549441,,tree impurity importance,XGBoost
+text__eu,0.003854018,,tree impurity importance,XGBoost
+text__boom,0.0038443103,,tree impurity importance,XGBoost
+text__industry,0.0038394444,,tree impurity importance,XGBoost
+text__startup,0.0038211856,,tree impurity importance,XGBoost
+text__researchers,0.003814061,,tree impurity importance,XGBoost
+text__street,0.0038133378,,tree impurity importance,XGBoost
+text__project,0.003789764,,tree impurity importance,XGBoost
+text__actor,0.003766873,,tree impurity importance,XGBoost
+text__art,0.0037469442,,tree impurity importance,XGBoost
+text__reports,0.0037463366,,tree impurity importance,XGBoost
+text__secretary,0.003731653,,tree impurity importance,XGBoost
+text__boss,0.003726145,,tree impurity importance,XGBoost
+text__bias,0.0037240607,,tree impurity importance,XGBoost
+text__risk,0.0037226384,,tree impurity importance,XGBoost
+text__machine,0.0037218328,,tree impurity importance,XGBoost
+text__access,0.0037166579,,tree impurity importance,XGBoost
+text__000,0.0037047882,,tree impurity importance,XGBoost
+text__social media,0.0036861976,,tree impurity importance,XGBoost
+text__need,0.003673599,,tree impurity importance,XGBoost
+text__prize,0.00367283,,tree impurity importance,XGBoost
+text__government,0.0036591017,,tree impurity importance,XGBoost
+text__write,0.0036525268,,tree impurity importance,XGBoost
+numeric__has_dalle_midjourney,0.0036509652,,tree impurity importance,XGBoost
+text__used,0.0036335485,,tree impurity importance,XGBoost
+text__humans,0.0036159572,,tree impurity importance,XGBoost
+text__exclusive,0.0035965324,,tree impurity importance,XGBoost
+text__deepfakes,0.0035900327,,tree impurity importance,XGBoost
+text__tasks,0.0035868145,,tree impurity importance,XGBoost
+text__letter,0.003585372,,tree impurity importance,XGBoost
+text__use,0.0035729727,,tree impurity importance,XGBoost
+text__books,0.0035465981,,tree impurity importance,XGBoost
+text__predict,0.0035447064,,tree impurity importance,XGBoost
+text__including,0.003508083,,tree impurity importance,XGBoost
+text__country,0.003493187,,tree impurity importance,XGBoost
+text__internet,0.0034686627,,tree impurity importance,XGBoost
+text__bot,0.0034621675,,tree impurity importance,XGBoost
+text__prof,0.003438317,,tree impurity importance,XGBoost
+text__military,0.003436484,,tree impurity importance,XGBoost
+text__election,0.003422943,,tree impurity importance,XGBoost
+text__ceo,0.003420895,,tree impurity importance,XGBoost
+text__created,0.003389642,,tree impurity importance,XGBoost
+text__hear,0.0033676117,,tree impurity importance,XGBoost
+text__actors,0.0033632428,,tree impurity importance,XGBoost
+text__wrong,0.0033628866,,tree impurity importance,XGBoost
+numeric__trail_word_count,0.0033627101,,tree impurity importance,XGBoost
+text__latest,0.003352433,,tree impurity importance,XGBoost
+text__artist,0.0033200933,,tree impurity importance,XGBoost
+text__hollywood,0.003316336,,tree impurity importance,XGBoost
+text__moment,0.0033057048,,tree impurity importance,XGBoost
+numeric__n_keyword_tags,0.0032998014,,tree impurity importance,XGBoost
+text__coming,0.0032992228,,tree impurity importance,XGBoost
+text__ready,0.003296329,,tree impurity importance,XGBoost
+text__questions,0.0032958013,,tree impurity importance,XGBoost
+text__news,0.0032957892,,tree impurity importance,XGBoost
+text__research,0.0032813821,,tree impurity importance,XGBoost
+text__ai,0.0032711162,,tree impurity importance,XGBoost
+text__chip,0.003261104,,tree impurity importance,XGBoost
+text__expert,0.0032579233,,tree impurity importance,XGBoost
+text__green,0.003257625,,tree impurity importance,XGBoost
+text__text,0.0032503947,,tree impurity importance,XGBoost
+text__products,0.0032498017,,tree impurity importance,XGBoost
+text__guardian,0.0032226196,,tree impurity importance,XGBoost
+text__written,0.0032181907,,tree impurity importance,XGBoost
+text__times,0.0032156657,,tree impurity importance,XGBoost
+text__workers,0.003203395,,tree impurity importance,XGBoost
+text__fake,0.0031887328,,tree impurity importance,XGBoost
+text__does,0.0031850007,,tree impurity importance,XGBoost
+text__revealed,0.00317459,,tree impurity importance,XGBoost
+text__bubble,0.0031637275,,tree impurity importance,XGBoost
+text__power,0.0031523327,,tree impurity importance,XGBoost
+text__uses,0.0031504263,,tree impurity importance,XGBoost
+text__share,0.003147711,,tree impurity importance,XGBoost
+text__tools,0.0031476356,,tree impurity importance,XGBoost
+text__replace,0.0031358625,,tree impurity importance,XGBoost
+text__queensland,0.0031354425,,tree impurity importance,XGBoost
+text__academic,0.0031343151,,tree impurity importance,XGBoost
+text__systems,0.003123983,,tree impurity importance,XGBoost
+text__big tech,0.003116433,,tree impurity importance,XGBoost
+text__weather,0.0031104418,,tree impurity importance,XGBoost
+text__using ai,0.0031012842,,tree impurity importance,XGBoost
+text__just,0.0031005407,,tree impurity importance,XGBoost
+text__parents,0.0030981558,,tree impurity importance,XGBoost
+text__labour,0.0030729142,,tree impurity importance,XGBoost
+text__generated,0.003033966,,tree impurity importance,XGBoost
+text__british,0.003027063,,tree impurity importance,XGBoost
+text__new,0.0030216454,,tree impurity importance,XGBoost
+text__warns,0.003018413,,tree impurity importance,XGBoost
+text__ways,0.003014119,,tree impurity importance,XGBoost
+text__program,0.0030104278,,tree impurity importance,XGBoost
+text__world,0.0030082213,,tree impurity importance,XGBoost
+text__thing,0.003001592,,tree impurity importance,XGBoost
+text__study finds,0.0029999912,,tree impurity importance,XGBoost
+text__women,0.0029978924,,tree impurity importance,XGBoost
+text__minister,0.0029843294,,tree impurity importance,XGBoost
+text__real,0.0029664526,,tree impurity importance,XGBoost
+text__create,0.0029351406,,tree impurity importance,XGBoost
+text__keir,0.0029308454,,tree impurity importance,XGBoost
+text__youtube,0.0029277632,,tree impurity importance,XGBoost
+numeric__wordcount,0.002922404,,tree impurity importance,XGBoost
+text__benefits,0.0029160024,,tree impurity importance,XGBoost
+text__heart,0.0029157132,,tree impurity importance,XGBoost
+text__help,0.0029156043,,tree impurity importance,XGBoost
+text__attack,0.0029132923,,tree impurity importance,XGBoost
+text__ban,0.002909045,,tree impurity importance,XGBoost
+text__shopping,0.0028886024,,tree impurity importance,XGBoost
+text__ai firms,0.0028780934,,tree impurity importance,XGBoost
+text__time,0.0028611964,,tree impurity importance,XGBoost
+text__tell,0.0028516524,,tree impurity importance,XGBoost
+text__build,0.002846292,,tree impurity importance,XGBoost
+text__lost,0.0028409876,,tree impurity importance,XGBoost
+text__intelligence,0.0028303906,,tree impurity importance,XGBoost
+text__powerful,0.0028180869,,tree impurity importance,XGBoost
+text__studies,0.0028177835,,tree impurity importance,XGBoost
+text__australia,0.002804608,,tree impurity importance,XGBoost
+text__maker,0.0027994332,,tree impurity importance,XGBoost
+text__department,0.0027802214,,tree impurity importance,XGBoost
+text__role,0.0027733427,,tree impurity importance,XGBoost
+text__high,0.002763377,,tree impurity importance,XGBoost
+text__rights,0.0027409436,,tree impurity importance,XGBoost
+text__app,0.002735862,,tree impurity importance,XGBoost
+text__agency,0.0027241914,,tree impurity importance,XGBoost
+text__history,0.0027219243,,tree impurity importance,XGBoost
+text__game,0.002701863,,tree impurity importance,XGBoost
+text__uk ai,0.0026956222,,tree impurity importance,XGBoost
+text__number,0.0026905145,,tree impurity importance,XGBoost
+text__wants,0.0026793252,,tree impurity importance,XGBoost
+text__transform,0.002676824,,tree impurity importance,XGBoost
+text__tom,0.0026698029,,tree impurity importance,XGBoost
+numeric__has_election_misinformation,0.002668316,,tree impurity importance,XGBoost
+text__development,0.0026476213,,tree impurity importance,XGBoost
+text__stock,0.0026375432,,tree impurity importance,XGBoost
+text__political,0.0026359821,,tree impurity importance,XGBoost
+text__health,0.0026311667,,tree impurity importance,XGBoost
+text__big,0.0026217033,,tree impurity importance,XGBoost
+text__billionaire,0.002613189,,tree impurity importance,XGBoost
+text__developing,0.002609972,,tree impurity importance,XGBoost
+text__ai powered,0.0025667294,,tree impurity importance,XGBoost
+text__artists,0.0025390221,,tree impurity importance,XGBoost
+text__better,0.0025370643,,tree impurity importance,XGBoost
+text__year,0.0025239354,,tree impurity importance,XGBoost
+text__interview,0.0025120415,,tree impurity importance,XGBoost
+text__grok,0.00250952,,tree impurity importance,XGBoost
+text__twitter,0.002506453,,tree impurity importance,XGBoost
+text__hopes,0.0025025657,,tree impurity importance,XGBoost
+text__prompt,0.0024963333,,tree impurity importance,XGBoost
+text__stop,0.002445644,,tree impurity importance,XGBoost
+text__person,0.0024362176,,tree impurity importance,XGBoost
+text__medical,0.0024279999,,tree impurity importance,XGBoost
+text__week,0.0024099753,,tree impurity importance,XGBoost
+text__isn,0.0024096225,,tree impurity importance,XGBoost
+text__voice,0.0023714493,,tree impurity importance,XGBoost
+text__chinese,0.002303502,,tree impurity importance,XGBoost
+text__affairs,0.002296874,,tree impurity importance,XGBoost
+text__face,0.0022374631,,tree impurity importance,XGBoost
+text__said,0.0022361607,,tree impurity importance,XGBoost
+text__altman,0.0022278002,,tree impurity importance,XGBoost
+text__says,0.0021514772,,tree impurity importance,XGBoost
+text__human,0.0021391327,,tree impurity importance,XGBoost
+text__facebook,0.0021324574,,tree impurity importance,XGBoost
+numeric__year,0.002081557,,tree impurity importance,XGBoost
+text__data,0.002052312,,tree impurity importance,XGBoost
+text__fears,0.0019754542,,tree impurity importance,XGBoost
+text__researchers say,0.001962715,,tree impurity importance,XGBoost
+text__artificial intelligence,0.0019570503,,tree impurity importance,XGBoost
+text__experts warn,0.001955068,,tree impurity importance,XGBoost
+text__warn,0.0019538146,,tree impurity importance,XGBoost
+numeric__headline_word_count,0.0019537213,,tree impurity importance,XGBoost
+text__policy,0.0019449374,,tree impurity importance,XGBoost
+text__technology,0.0019214593,,tree impurity importance,XGBoost
+text__ai chatbot,0.0019115106,,tree impurity importance,XGBoost
+text__tech firms,0.0017731054,,tree impurity importance,XGBoost
+text__china,0.0017704032,,tree impurity importance,XGBoost
+text__make,0.0017654268,,tree impurity importance,XGBoost
+text__uk government,0.0017578354,,tree impurity importance,XGBoost
+text__growing,0.0017514616,,tree impurity importance,XGBoost
+text__online,0.0017280258,,tree impurity importance,XGBoost
+text__california,0.0016537409,,tree impurity importance,XGBoost
+text__say,0.0016258623,,tree impurity importance,XGBoost
+text__artificial,0.0015869518,,tree impurity importance,XGBoost
+numeric__has_jobs_labor,0.001451147,,tree impurity importance,XGBoost
+text__president,0.0013456658,,tree impurity importance,XGBoost
+text__companies,0.0013335396,,tree impurity importance,XGBoost
+numeric__sentiment_compound,0.0013012879,,tree impurity importance,XGBoost
+text__google deepmind,0.0012973403,,tree impurity importance,XGBoost
+text__amid,0.001259314,,tree impurity importance,XGBoost
+text__tech firm,0.0012425171,,tree impurity importance,XGBoost
+numeric__month_num,0.0012211846,,tree impurity importance,XGBoost
+numeric__n_format_tags,0.0011036211,,tree impurity importance,XGBoost
+text__starmer,0.0010844409,,tree impurity importance,XGBoost
+text__students,0.0009839487,,tree impurity importance,XGBoost
+numeric__format_features,0.00094438245,,tree impurity importance,XGBoost
+text__ai company,0.0009408682,,tree impurity importance,XGBoost
+text__social,0.00094059395,,tree impurity importance,XGBoost
+text__potential,0.0009081176,,tree impurity importance,XGBoost
+text__zuckerberg,0.0007206247,,tree impurity importance,XGBoost
+text__emissions,0.0003623855,,tree impurity importance,XGBoost
+text__xai,5.280513e-05,,tree impurity importance,XGBoost
+text__plans,9.37399e-06,,tree impurity importance,XGBoost
+text__productivity,0.0,,tree impurity importance,XGBoost
+text__product,0.0,,tree impurity importance,XGBoost
+text__production,0.0,,tree impurity importance,XGBoost
+text__position,0.0,,tree impurity importance,XGBoost
+text__poses,0.0,,tree impurity importance,XGBoost
+text__rest,0.0,,tree impurity importance,XGBoost
+text__productivity commission,0.0,,tree impurity importance,XGBoost
+text__profession,0.0,,tree impurity importance,XGBoost
+text__lord,0.0,,tree impurity importance,XGBoost
+text__pop,0.0,,tree impurity importance,XGBoost
+text__profound,0.0,,tree impurity importance,XGBoost
+text__response,0.0,,tree impurity importance,XGBoost
+text__profits,0.0,,tree impurity importance,XGBoost
+text__politics,0.0,,tree impurity importance,XGBoost
+text__poll,0.0,,tree impurity importance,XGBoost
+text__profit,0.0,,tree impurity importance,XGBoost
+text__professor,0.0,,tree impurity importance,XGBoost
+text__responses,0.0,,tree impurity importance,XGBoost
+text__poor,0.0,,tree impurity importance,XGBoost
+text__professionals,0.0,,tree impurity importance,XGBoost
+text__posed,0.0,,tree impurity importance,XGBoost
+text__pope,0.0,,tree impurity importance,XGBoost
+text__professional,0.0,,tree impurity importance,XGBoost
+text__popular,0.0,,tree impurity importance,XGBoost
+text__porn,0.0,,tree impurity importance,XGBoost
+text__pornography,0.0,,tree impurity importance,XGBoost
+text__portrait,0.0,,tree impurity importance,XGBoost
+text__portraits,0.0,,tree impurity importance,XGBoost
+text__responsible,0.0,,tree impurity importance,XGBoost
+text__pose,0.0,,tree impurity importance,XGBoost
+text__positive,0.0,,tree impurity importance,XGBoost
+text__prepare,0.0,,tree impurity importance,XGBoost
+text__produced,0.0,,tree impurity importance,XGBoost
+text__prime minister,0.0,,tree impurity importance,XGBoost
+text__predicted,0.0,,tree impurity importance,XGBoost
+text__prediction,0.0,,tree impurity importance,XGBoost
+text__predictions,0.0,,tree impurity importance,XGBoost
+text__rethink,0.0,,tree impurity importance,XGBoost
+text__private,0.0,,tree impurity importance,XGBoost
+text__predicts,0.0,,tree impurity importance,XGBoost
+text__privacy,0.0,,tree impurity importance,XGBoost
+text__return,0.0,,tree impurity importance,XGBoost
+text__returns,0.0,,tree impurity importance,XGBoost
+text__prime,0.0,,tree impurity importance,XGBoost
+text__produce,0.0,,tree impurity importance,XGBoost
+text__prices,0.0,,tree impurity importance,XGBoost
+text__premier,0.0,,tree impurity importance,XGBoost
+text__price,0.0,,tree impurity importance,XGBoost
+text__looking,0.0,,tree impurity importance,XGBoost
+text__prevent,0.0,,tree impurity importance,XGBoost
+text__programme,0.0,,tree impurity importance,XGBoost
+text__pressure,0.0,,tree impurity importance,XGBoost
+text__press,0.0,,tree impurity importance,XGBoost
+text__preparing,0.0,,tree impurity importance,XGBoost
+text__reveal,0.0,,tree impurity importance,XGBoost
+text__pro,0.0,,tree impurity importance,XGBoost
+text__pre,0.0,,tree impurity importance,XGBoost
+text__praises,0.0,,tree impurity importance,XGBoost
+text__possibilities,0.0,,tree impurity importance,XGBoost
+text__processing,0.0,,tree impurity importance,XGBoost
+text__possible,0.0,,tree impurity importance,XGBoost
+text__process,0.0,,tree impurity importance,XGBoost
+text__looks,0.0,,tree impurity importance,XGBoost
+text__post,0.0,,tree impurity importance,XGBoost
+text__prepared,0.0,,tree impurity importance,XGBoost
+text__posting,0.0,,tree impurity importance,XGBoost
+text__posts,0.0,,tree impurity importance,XGBoost
+text__problems,0.0,,tree impurity importance,XGBoost
+text__potentially,0.0,,tree impurity importance,XGBoost
+text__problem,0.0,,tree impurity importance,XGBoost
+text__power ai,0.0,,tree impurity importance,XGBoost
+text__result,0.0,,tree impurity importance,XGBoost
+text__powered,0.0,,tree impurity importance,XGBoost
+text__results,0.0,,tree impurity importance,XGBoost
+text__retailer,0.0,,tree impurity importance,XGBoost
+text__probably,0.0,,tree impurity importance,XGBoost
+text__powers,0.0,,tree impurity importance,XGBoost
+text__posted,0.0,,tree impurity importance,XGBoost
+text__protest,0.0,,tree impurity importance,XGBoost
+text__responds,0.0,,tree impurity importance,XGBoost
+text__represents,0.0,,tree impurity importance,XGBoost
+text__refuse,0.0,,tree impurity importance,XGBoost
+text__reform,0.0,,tree impurity importance,XGBoost
+text__referred,0.0,,tree impurity importance,XGBoost
+text__reeves,0.0,,tree impurity importance,XGBoost
+text__reduce,0.0,,tree impurity importance,XGBoost
+text__recreate,0.0,,tree impurity importance,XGBoost
+text__records,0.0,,tree impurity importance,XGBoost
+text__record,0.0,,tree impurity importance,XGBoost
+text__recognition,0.0,,tree impurity importance,XGBoost
+text__recipes,0.0,,tree impurity importance,XGBoost
+text__recipe,0.0,,tree impurity importance,XGBoost
+text__recent,0.0,,tree impurity importance,XGBoost
+text__reasons,0.0,,tree impurity importance,XGBoost
+text__reason,0.0,,tree impurity importance,XGBoost
+text__loneliness,0.0,,tree impurity importance,XGBoost
+text__really,0.0,,tree impurity importance,XGBoost
+text__reality,0.0,,tree impurity importance,XGBoost
+text__realistic,0.0,,tree impurity importance,XGBoost
+text__realise,0.0,,tree impurity importance,XGBoost
+text__real world,0.0,,tree impurity importance,XGBoost
+text__real life,0.0,,tree impurity importance,XGBoost
+text__reading,0.0,,tree impurity importance,XGBoost
+text__readers,0.0,,tree impurity importance,XGBoost
+text__read,0.0,,tree impurity importance,XGBoost
+text__reactors,0.0,,tree impurity importance,XGBoost
+text__reach,0.0,,tree impurity importance,XGBoost
+text__ray,0.0,,tree impurity importance,XGBoost
+text__rates,0.0,,tree impurity importance,XGBoost
+text__regional,0.0,,tree impurity importance,XGBoost
+text__reportedly,0.0,,tree impurity importance,XGBoost
+text__rapid,0.0,,tree impurity importance,XGBoost
+text__report warns,0.0,,tree impurity importance,XGBoost
+text__report finds,0.0,,tree impurity importance,XGBoost
+text__long,0.0,,tree impurity importance,XGBoost
+text__replaced,0.0,,tree impurity importance,XGBoost
+text__lonely,0.0,,tree impurity importance,XGBoost
+text__removed,0.0,,tree impurity importance,XGBoost
+text__remove,0.0,,tree impurity importance,XGBoost
+text__remember,0.0,,tree impurity importance,XGBoost
+text__remains,0.0,,tree impurity importance,XGBoost
+text__remain,0.0,,tree impurity importance,XGBoost
+text__releases,0.0,,tree impurity importance,XGBoost
+text__released,0.0,,tree impurity importance,XGBoost
+text__release,0.0,,tree impurity importance,XGBoost
+text__relationships,0.0,,tree impurity importance,XGBoost
+text__long term,0.0,,tree impurity importance,XGBoost
+text__regulate,0.0,,tree impurity importance,XGBoost
+text__relationship,0.0,,tree impurity importance,XGBoost
+text__regulatory,0.0,,tree impurity importance,XGBoost
+text__regulators,0.0,,tree impurity importance,XGBoost
+text__longer,0.0,,tree impurity importance,XGBoost
+text__look,0.0,,tree impurity importance,XGBoost
+text__regulator,0.0,,tree impurity importance,XGBoost
+text__regulations,0.0,,tree impurity importance,XGBoost
+text__regulation,0.0,,tree impurity importance,XGBoost
+text__regulating ai,0.0,,tree impurity importance,XGBoost
+text__reported,0.0,,tree impurity importance,XGBoost
+text__regulating,0.0,,tree impurity importance,XGBoost
+text__look like,0.0,,tree impurity importance,XGBoost
+text__regulate ai,0.0,,tree impurity importance,XGBoost
+text__rare,0.0,,tree impurity importance,XGBoost
+text__republican,0.0,,tree impurity importance,XGBoost
+text__programs,0.0,,tree impurity importance,XGBoost
+text__protect,0.0,,tree impurity importance,XGBoost
+text__publisher,0.0,,tree impurity importance,XGBoost
+text__published,0.0,,tree impurity importance,XGBoost
+text__london,0.0,,tree impurity importance,XGBoost
+text__public services,0.0,,tree impurity importance,XGBoost
+text__public,0.0,,tree impurity importance,XGBoost
+text__provide,0.0,,tree impurity importance,XGBoost
+text__prove,0.0,,tree impurity importance,XGBoost
+text__report says,0.0,,tree impurity importance,XGBoost
+text__protections,0.0,,tree impurity importance,XGBoost
+text__resist,0.0,,tree impurity importance,XGBoost
+text__resources,0.0,,tree impurity importance,XGBoost
+text__protection,0.0,,tree impurity importance,XGBoost
+text__protected,0.0,,tree impurity importance,XGBoost
+text__respond,0.0,,tree impurity importance,XGBoost
+text__researcher,0.0,,tree impurity importance,XGBoost
+text__prospect,0.0,,tree impurity importance,XGBoost
+text__proposes,0.0,,tree impurity importance,XGBoost
+text__proposed,0.0,,tree impurity importance,XGBoost
+text__proposals,0.0,,tree impurity importance,XGBoost
+text__proposal,0.0,,tree impurity importance,XGBoost
+text__property,0.0,,tree impurity importance,XGBoost
+text__propaganda,0.0,,tree impurity importance,XGBoost
+text__prompts,0.0,,tree impurity importance,XGBoost
+text__prompting,0.0,,tree impurity importance,XGBoost
+text__promises,0.0,,tree impurity importance,XGBoost
+text__promise,0.0,,tree impurity importance,XGBoost
+text__projects,0.0,,tree impurity importance,XGBoost
+text__progress,0.0,,tree impurity importance,XGBoost
+text__publishers,0.0,,tree impurity importance,XGBoost
+text__publishing,0.0,,tree impurity importance,XGBoost
+text__range,0.0,,tree impurity importance,XGBoost
+text__quit,0.0,,tree impurity importance,XGBoost
+text__raising,0.0,,tree impurity importance,XGBoost
+text__requests,0.0,,tree impurity importance,XGBoost
+text__raises,0.0,,tree impurity importance,XGBoost
+text__require,0.0,,tree impurity importance,XGBoost
+text__raised,0.0,,tree impurity importance,XGBoost
+text__raise,0.0,,tree impurity importance,XGBoost
+text__rage,0.0,,tree impurity importance,XGBoost
+text__radical,0.0,,tree impurity importance,XGBoost
+text__racist,0.0,,tree impurity importance,XGBoost
+text__racial,0.0,,tree impurity importance,XGBoost
+text__rachel,0.0,,tree impurity importance,XGBoost
+text__race,0.0,,tree impurity importance,XGBoost
+text__quite,0.0,,tree impurity importance,XGBoost
+text__quickly,0.0,,tree impurity importance,XGBoost
+text__pull,0.0,,tree impurity importance,XGBoost
+text__requiring,0.0,,tree impurity importance,XGBoost
+text__question,0.0,,tree impurity importance,XGBoost
+text__research finds,0.0,,tree impurity importance,XGBoost
+text__queries,0.0,,tree impurity importance,XGBoost
+text__queen,0.0,,tree impurity importance,XGBoost
+text__quarterly,0.0,,tree impurity importance,XGBoost
+text__quarter,0.0,,tree impurity importance,XGBoost
+text__quantum,0.0,,tree impurity importance,XGBoost
+text__quality,0.0,,tree impurity importance,XGBoost
+text__putting,0.0,,tree impurity importance,XGBoost
+text__puts,0.0,,tree impurity importance,XGBoost
+text__pushes,0.0,,tree impurity importance,XGBoost
+text__push,0.0,,tree impurity importance,XGBoost
+text__pushing,0.0,,tree impurity importance,XGBoost
+text__management,0.0,,tree impurity importance,XGBoost
+text__policies,0.0,,tree impurity importance,XGBoost
+text__mps,0.0,,tree impurity importance,XGBoost
+text__make ai,0.0,,tree impurity importance,XGBoost
+text__mystery,0.0,,tree impurity importance,XGBoost
+text__mustafa suleyman,0.0,,tree impurity importance,XGBoost
+text__mustafa,0.0,,tree impurity importance,XGBoost
+text__musk xai,0.0,,tree impurity importance,XGBoost
+text__musk grok,0.0,,tree impurity importance,XGBoost
+text__musk ai,0.0,,tree impurity importance,XGBoost
+text__musicians,0.0,,tree impurity importance,XGBoost
+text__musician,0.0,,tree impurity importance,XGBoost
+text__music industry,0.0,,tree impurity importance,XGBoost
+text__music,0.0,,tree impurity importance,XGBoost
+text__museum,0.0,,tree impurity importance,XGBoost
+text__multibillion dollar,0.0,,tree impurity importance,XGBoost
+text__multibillion,0.0,,tree impurity importance,XGBoost
+text__mp,0.0,,tree impurity importance,XGBoost
+text__narrative,0.0,,tree impurity importance,XGBoost
+text__moving,0.0,,tree impurity importance,XGBoost
+text__movie,0.0,,tree impurity importance,XGBoost
+text__makers,0.0,,tree impurity importance,XGBoost
+text__moves,0.0,,tree impurity importance,XGBoost
+text__makes,0.0,,tree impurity importance,XGBoost
+text__morning mail,0.0,,tree impurity importance,XGBoost
+text__morning,0.0,,tree impurity importance,XGBoost
+text__moral,0.0,,tree impurity importance,XGBoost
+text__months,0.0,,tree impurity importance,XGBoost
+text__month,0.0,,tree impurity importance,XGBoost
+text__monopoly,0.0,,tree impurity importance,XGBoost
+text__monitoring,0.0,,tree impurity importance,XGBoost
+text__monitor,0.0,,tree impurity importance,XGBoost
+text__money,0.0,,tree impurity importance,XGBoost
+text__names,0.0,,tree impurity importance,XGBoost
+text__national,0.0,,tree impurity importance,XGBoost
+text__modern,0.0,,tree impurity importance,XGBoost
+text__neural,0.0,,tree impurity importance,XGBoost
+text__nonsense,0.0,,tree impurity importance,XGBoost
+text__nonexistent,0.0,,tree impurity importance,XGBoost
+text__non,0.0,,tree impurity importance,XGBoost
+text__nobel,0.0,,tree impurity importance,XGBoost
+text__nick clegg,0.0,,tree impurity importance,XGBoost
+text__nick,0.0,,tree impurity importance,XGBoost
+text__magic,0.0,,tree impurity importance,XGBoost
+text__mahdawi,0.0,,tree impurity importance,XGBoost
+text__newsletter,0.0,,tree impurity importance,XGBoost
+text__new york,0.0,,tree impurity importance,XGBoost
+text__new technology,0.0,,tree impurity importance,XGBoost
+text__new technologies,0.0,,tree impurity importance,XGBoost
+text__mail,0.0,,tree impurity importance,XGBoost
+text__new ai,0.0,,tree impurity importance,XGBoost
+text__networks,0.0,,tree impurity importance,XGBoost
+text__national security,0.0,,tree impurity importance,XGBoost
+text__network,0.0,,tree impurity importance,XGBoost
+text__netflix,0.0,,tree impurity importance,XGBoost
+text__negative,0.0,,tree impurity importance,XGBoost
+text__needs,0.0,,tree impurity importance,XGBoost
+text__needed,0.0,,tree impurity importance,XGBoost
+text__mainstream,0.0,,tree impurity importance,XGBoost
+text__major,0.0,,tree impurity importance,XGBoost
+text__need know,0.0,,tree impurity importance,XGBoost
+text__nearly,0.0,,tree impurity importance,XGBoost
+text__near,0.0,,tree impurity importance,XGBoost
+text__nazi,0.0,,tree impurity importance,XGBoost
+text__nature,0.0,,tree impurity importance,XGBoost
+text__natural,0.0,,tree impurity importance,XGBoost
+text__nations,0.0,,tree impurity importance,XGBoost
+text__monday,0.0,,tree impurity importance,XGBoost
+text__moderators,0.0,,tree impurity importance,XGBoost
+text__police,0.0,,tree impurity importance,XGBoost
+text__matter,0.0,,tree impurity importance,XGBoost
+text__members,0.0,,tree impurity importance,XGBoost
+text__meltdown,0.0,,tree impurity importance,XGBoost
+text__meetings,0.0,,tree impurity importance,XGBoost
+text__meeting,0.0,,tree impurity importance,XGBoost
+text__meet,0.0,,tree impurity importance,XGBoost
+text__medicine,0.0,,tree impurity importance,XGBoost
+text__man,0.0,,tree impurity importance,XGBoost
+text__measures,0.0,,tree impurity importance,XGBoost
+text__measure,0.0,,tree impurity importance,XGBoost
+text__means,0.0,,tree impurity importance,XGBoost
+text__mean,0.0,,tree impurity importance,XGBoost
+text__mccartney,0.0,,tree impurity importance,XGBoost
+text__maybe,0.0,,tree impurity importance,XGBoost
+text__max,0.0,,tree impurity importance,XGBoost
+text__matrix,0.0,,tree impurity importance,XGBoost
+text__mental,0.0,,tree impurity importance,XGBoost
+text__maths,0.0,,tree impurity importance,XGBoost
+text__materials,0.0,,tree impurity importance,XGBoost
+text__material,0.0,,tree impurity importance,XGBoost
+text__match,0.0,,tree impurity importance,XGBoost
+text__masterpiece,0.0,,tree impurity importance,XGBoost
+text__master,0.0,,tree impurity importance,XGBoost
+text__massive,0.0,,tree impurity importance,XGBoost
+text__mass,0.0,,tree impurity importance,XGBoost
+text__markets,0.0,,tree impurity importance,XGBoost
+text__mark zuckerberg,0.0,,tree impurity importance,XGBoost
+text__mark,0.0,,tree impurity importance,XGBoost
+text__map,0.0,,tree impurity importance,XGBoost
+text__manipulated,0.0,,tree impurity importance,XGBoost
+text__managers,0.0,,tree impurity importance,XGBoost
+text__men,0.0,,tree impurity importance,XGBoost
+text__malicious,0.0,,tree impurity importance,XGBoost
+text__moderation,0.0,,tree impurity importance,XGBoost
+text__minister says,0.0,,tree impurity importance,XGBoost
+text__models,0.0,,tree impurity importance,XGBoost
+text__model,0.0,,tree impurity importance,XGBoost
+text__mixed,0.0,,tree impurity importance,XGBoost
+text__mitigate,0.0,,tree impurity importance,XGBoost
+text__misuse,0.0,,tree impurity importance,XGBoost
+text__mistakes,0.0,,tree impurity importance,XGBoost
+text__missions,0.0,,tree impurity importance,XGBoost
+text__mission,0.0,,tree impurity importance,XGBoost
+text__missing,0.0,,tree impurity importance,XGBoost
+text__missed,0.0,,tree impurity importance,XGBoost
+text__misinformation,0.0,,tree impurity importance,XGBoost
+text__mirror,0.0,,tree impurity importance,XGBoost
+text__making,0.0,,tree impurity importance,XGBoost
+text__ministers,0.0,,tree impurity importance,XGBoost
+text__mining,0.0,,tree impurity importance,XGBoost
+text__mental health,0.0,,tree impurity importance,XGBoost
+text__minds,0.0,,tree impurity importance,XGBoost
+text__mind,0.0,,tree impurity importance,XGBoost
+text__millions,0.0,,tree impurity importance,XGBoost
+text__million,0.0,,tree impurity importance,XGBoost
+text__mike,0.0,,tree impurity importance,XGBoost
+text__midjourney,0.0,,tree impurity importance,XGBoost
+text__middle,0.0,,tree impurity importance,XGBoost
+text__microsoft says,0.0,,tree impurity importance,XGBoost
+text__microsoft openai,0.0,,tree impurity importance,XGBoost
+text__making ai,0.0,,tree impurity importance,XGBoost
+text__michael,0.0,,tree impurity importance,XGBoost
+text__metaverse,0.0,,tree impurity importance,XGBoost
+text__male,0.0,,tree impurity importance,XGBoost
+text__met,0.0,,tree impurity importance,XGBoost
+text__north,0.0,,tree impurity importance,XGBoost
+text__norwood,0.0,,tree impurity importance,XGBoost
+text__notes,0.0,,tree impurity importance,XGBoost
+text__peers,0.0,,tree impurity importance,XGBoost
+text__photo,0.0,,tree impurity importance,XGBoost
+text__phones,0.0,,tree impurity importance,XGBoost
+text__losing,0.0,,tree impurity importance,XGBoost
+text__philosopher,0.0,,tree impurity importance,XGBoost
+text__peter kyle,0.0,,tree impurity importance,XGBoost
+text__peter,0.0,,tree impurity importance,XGBoost
+text__personalised,0.0,,tree impurity importance,XGBoost
+text__personal,0.0,,tree impurity importance,XGBoost
+text__performances,0.0,,tree impurity importance,XGBoost
+text__performance,0.0,,tree impurity importance,XGBoost
+text__perform,0.0,,tree impurity importance,XGBoost
+text__loss,0.0,,tree impurity importance,XGBoost
+text__perfect,0.0,,tree impurity importance,XGBoost
+text__people,0.0,,tree impurity importance,XGBoost
+text__peer,0.0,,tree impurity importance,XGBoost
+text__photos,0.0,,tree impurity importance,XGBoost
+text__losses,0.0,,tree impurity importance,XGBoost
+text__paying,0.0,,tree impurity importance,XGBoost
+text__pay,0.0,,tree impurity importance,XGBoost
+text__pause,0.0,,tree impurity importance,XGBoost
+text__paul mccartney,0.0,,tree impurity importance,XGBoost
+text__paul,0.0,,tree impurity importance,XGBoost
+text__patients,0.0,,tree impurity importance,XGBoost
+text__patient,0.0,,tree impurity importance,XGBoost
+text__past,0.0,,tree impurity importance,XGBoost
+text__party,0.0,,tree impurity importance,XGBoost
+text__lot,0.0,,tree impurity importance,XGBoost
+text__partnership,0.0,,tree impurity importance,XGBoost
+text__partners,0.0,,tree impurity importance,XGBoost
+text__parkinson,0.0,,tree impurity importance,XGBoost
+text__photography,0.0,,tree impurity importance,XGBoost
+text__physical,0.0,,tree impurity importance,XGBoost
+text__novel,0.0,,tree impurity importance,XGBoost
+text__play,0.0,,tree impurity importance,XGBoost
+text__points,0.0,,tree impurity importance,XGBoost
+text__point,0.0,,tree impurity importance,XGBoost
+text__poetry,0.0,,tree impurity importance,XGBoost
+text__poems,0.0,,tree impurity importance,XGBoost
+text__podcast,0.0,,tree impurity importance,XGBoost
+text__pm,0.0,,tree impurity importance,XGBoost
+text__plus,0.0,,tree impurity importance,XGBoost
+text__plenty,0.0,,tree impurity importance,XGBoost
+text__pledge,0.0,,tree impurity importance,XGBoost
+text__plays,0.0,,tree impurity importance,XGBoost
+text__playing,0.0,,tree impurity importance,XGBoost
+text__lords,0.0,,tree impurity importance,XGBoost
+text__lose,0.0,,tree impurity importance,XGBoost
+text__players,0.0,,tree impurity importance,XGBoost
+text__platforms,0.0,,tree impurity importance,XGBoost
+text__physicist,0.0,,tree impurity importance,XGBoost
+text__platform,0.0,,tree impurity importance,XGBoost
+text__planning,0.0,,tree impurity importance,XGBoost
+text__planned,0.0,,tree impurity importance,XGBoost
+text__planet,0.0,,tree impurity importance,XGBoost
+text__plan,0.0,,tree impurity importance,XGBoost
+text__plagiarism,0.0,,tree impurity importance,XGBoost
+text__place,0.0,,tree impurity importance,XGBoost
+text__pixel,0.0,,tree impurity importance,XGBoost
+text__pioneer,0.0,,tree impurity importance,XGBoost
+text__loses,0.0,,tree impurity importance,XGBoost
+text__piece,0.0,,tree impurity importance,XGBoost
+text__pictures,0.0,,tree impurity importance,XGBoost
+text__picture,0.0,,tree impurity importance,XGBoost
+text__physics,0.0,,tree impurity importance,XGBoost
+text__park,0.0,,tree impurity importance,XGBoost
+text__paris summit,0.0,,tree impurity importance,XGBoost
+text__paris,0.0,,tree impurity importance,XGBoost
+text__ones,0.0,,tree impurity importance,XGBoost
+text__operator,0.0,,tree impurity importance,XGBoost
+text__opens,0.0,,tree impurity importance,XGBoost
+text__opening,0.0,,tree impurity importance,XGBoost
+text__openai says,0.0,,tree impurity importance,XGBoost
+text__low,0.0,,tree impurity importance,XGBoost
+text__openai sam,0.0,,tree impurity importance,XGBoost
+text__openai new,0.0,,tree impurity importance,XGBoost
+text__openai launches,0.0,,tree impurity importance,XGBoost
+text__openai ceo,0.0,,tree impurity importance,XGBoost
+text__open source,0.0,,tree impurity importance,XGBoost
+text__open letter,0.0,,tree impurity importance,XGBoost
+text__open ai,0.0,,tree impurity importance,XGBoost
+text__open,0.0,,tree impurity importance,XGBoost
+text__online safety,0.0,,tree impurity importance,XGBoost
+text__old,0.0,,tree impurity importance,XGBoost
+text__papers,0.0,,tree impurity importance,XGBoost
+text__oil,0.0,,tree impurity importance,XGBoost
+text__officials,0.0,,tree impurity importance,XGBoost
+text__official,0.0,,tree impurity importance,XGBoost
+text__officer,0.0,,tree impurity importance,XGBoost
+text__office,0.0,,tree impurity importance,XGBoost
+text__offers,0.0,,tree impurity importance,XGBoost
+text__offer,0.0,,tree impurity importance,XGBoost
+text__offensive,0.0,,tree impurity importance,XGBoost
+text__lyrics,0.0,,tree impurity importance,XGBoost
+text__numbers,0.0,,tree impurity importance,XGBoost
+text__machines,0.0,,tree impurity importance,XGBoost
+text__nude,0.0,,tree impurity importance,XGBoost
+text__nuclear,0.0,,tree impurity importance,XGBoost
+text__nsw,0.0,,tree impurity importance,XGBoost
+text__opinion,0.0,,tree impurity importance,XGBoost
+text__oppenheimer,0.0,,tree impurity importance,XGBoost
+text__opportunities,0.0,,tree impurity importance,XGBoost
+text__opportunity,0.0,,tree impurity importance,XGBoost
+text__reveals,0.0,,tree impurity importance,XGBoost
+text__paper,0.0,,tree impurity importance,XGBoost
+text__panic,0.0,,tree impurity importance,XGBoost
+text__panel,0.0,,tree impurity importance,XGBoost
+text__love,0.0,,tree impurity importance,XGBoost
+text__pandemic,0.0,,tree impurity importance,XGBoost
+text__palestinian,0.0,,tree impurity importance,XGBoost
+text__palantir,0.0,,tree impurity importance,XGBoost
+text__painting,0.0,,tree impurity importance,XGBoost
+text__loved,0.0,,tree impurity importance,XGBoost
+text__paid,0.0,,tree impurity importance,XGBoost
+text__pace,0.0,,tree impurity importance,XGBoost
+text__oxford,0.0,,tree impurity importance,XGBoost
+text__owners,0.0,,tree impurity importance,XGBoost
+text__owner,0.0,,tree impurity importance,XGBoost
+text__owned,0.0,,tree impurity importance,XGBoost
+text__oversight,0.0,,tree impurity importance,XGBoost
+text__overhaul,0.0,,tree impurity importance,XGBoost
+text__outside,0.0,,tree impurity importance,XGBoost
+text__output,0.0,,tree impurity importance,XGBoost
+text__organisation,0.0,,tree impurity importance,XGBoost
+text__orders,0.0,,tree impurity importance,XGBoost
+text__ordered,0.0,,tree impurity importance,XGBoost
+text__order,0.0,,tree impurity importance,XGBoost
+text__option,0.0,,tree impurity importance,XGBoost
+text__optimistic,0.0,,tree impurity importance,XGBoost
+text__optimism,0.0,,tree impurity importance,XGBoost
+text__opt,0.0,,tree impurity importance,XGBoost
+text__opposition,0.0,,tree impurity importance,XGBoost
+text__permission,0.0,,tree impurity importance,XGBoost
+text__says report,0.0,,tree impurity importance,XGBoost
+text__reveals ai,0.0,,tree impurity importance,XGBoost
+text__tony blair,0.0,,tree impurity importance,XGBoost
+text__translators,0.0,,tree impurity importance,XGBoost
+text__transparency,0.0,,tree impurity importance,XGBoost
+text__transparent,0.0,,tree impurity importance,XGBoost
+text__travel,0.0,,tree impurity importance,XGBoost
+text__treat,0.0,,tree impurity importance,XGBoost
+text__treatment,0.0,,tree impurity importance,XGBoost
+text__trend,0.0,,tree impurity importance,XGBoost
+text__trial,0.0,,tree impurity importance,XGBoost
+text__trial ai,0.0,,tree impurity importance,XGBoost
+text__trials,0.0,,tree impurity importance,XGBoost
+text__tried,0.0,,tree impurity importance,XGBoost
+text__tries,0.0,,tree impurity importance,XGBoost
+text__true,0.0,,tree impurity importance,XGBoost
+text__truly,0.0,,tree impurity importance,XGBoost
+text__trump administration,0.0,,tree impurity importance,XGBoost
+text__translation,0.0,,tree impurity importance,XGBoost
+text__training ai,0.0,,tree impurity importance,XGBoost
+text__trained,0.0,,tree impurity importance,XGBoost
+text__touch,0.0,,tree impurity importance,XGBoost
+text__tool,0.0,,tree impurity importance,XGBoost
+text__tool help,0.0,,tree impurity importance,XGBoost
+text__tool predict,0.0,,tree impurity importance,XGBoost
+text__tools used,0.0,,tree impurity importance,XGBoost
+text__tories,0.0,,tree impurity importance,XGBoost
+text__tory,0.0,,tree impurity importance,XGBoost
+text__tough,0.0,,tree impurity importance,XGBoost
+text__train ai,0.0,,tree impurity importance,XGBoost
+text__track,0.0,,tree impurity importance,XGBoost
+text__tracking,0.0,,tree impurity importance,XGBoost
+text__trade,0.0,,tree impurity importance,XGBoost
+text__traditional,0.0,,tree impurity importance,XGBoost
+text__traffic,0.0,,tree impurity importance,XGBoost
+text__train,0.0,,tree impurity importance,XGBoost
+text__trump ai,0.0,,tree impurity importance,XGBoost
+text__trust,0.0,,tree impurity importance,XGBoost
+text__truth,0.0,,tree impurity importance,XGBoost
+text__unlikely,0.0,,tree impurity importance,XGBoost
+text__unions,0.0,,tree impurity importance,XGBoost
+text__unique,0.0,,tree impurity importance,XGBoost
+text__unit,0.0,,tree impurity importance,XGBoost
+text__universal,0.0,,tree impurity importance,XGBoost
+text__universities,0.0,,tree impurity importance,XGBoost
+text__unless,0.0,,tree impurity importance,XGBoost
+text__unprecedented,0.0,,tree impurity importance,XGBoost
+text__understanding,0.0,,tree impurity importance,XGBoost
+text__unsettling,0.0,,tree impurity importance,XGBoost
+text__unveils,0.0,,tree impurity importance,XGBoost
+text__update,0.0,,tree impurity importance,XGBoost
+text__updates,0.0,,tree impurity importance,XGBoost
+text__urge,0.0,,tree impurity importance,XGBoost
+text__urged,0.0,,tree impurity importance,XGBoost
+text__union,0.0,,tree impurity importance,XGBoost
+text__understand,0.0,,tree impurity importance,XGBoost
+text__try,0.0,,tree impurity importance,XGBoost
+text__turning,0.0,,tree impurity importance,XGBoost
+text__trying,0.0,,tree impurity importance,XGBoost
+text__tuesday,0.0,,tree impurity importance,XGBoost
+text__turing,0.0,,tree impurity importance,XGBoost
+text__turing institute,0.0,,tree impurity importance,XGBoost
+text__turn,0.0,,tree impurity importance,XGBoost
+text__turned,0.0,,tree impurity importance,XGBoost
+text__turns,0.0,,tree impurity importance,XGBoost
+text__uncertainty,0.0,,tree impurity importance,XGBoost
+text__tv,0.0,,tree impurity importance,XGBoost
+text__type,0.0,,tree impurity importance,XGBoost
+text__uk copyright,0.0,,tree impurity importance,XGBoost
+text__uk ministers,0.0,,tree impurity importance,XGBoost
+text__uk politics,0.0,,tree impurity importance,XGBoost
+text__ukraine,0.0,,tree impurity importance,XGBoost
+text__took,0.0,,tree impurity importance,XGBoost
+text__tony,0.0,,tree impurity importance,XGBoost
+text__revenue,0.0,,tree impurity importance,XGBoost
+text__tone,0.0,,tree impurity importance,XGBoost
+text__tech sector,0.0,,tree impurity importance,XGBoost
+text__tech stocks,0.0,,tree impurity importance,XGBoost
+text__technological,0.0,,tree impurity importance,XGBoost
+text__technologies,0.0,,tree impurity importance,XGBoost
+text__technology secretary,0.0,,tree impurity importance,XGBoost
+text__techscape ai,0.0,,tree impurity importance,XGBoost
+text__teenager,0.0,,tree impurity importance,XGBoost
+text__tells,0.0,,tree impurity importance,XGBoost
+text__tennis,0.0,,tree impurity importance,XGBoost
+text__term,0.0,,tree impurity importance,XGBoost
+text__terminator,0.0,,tree impurity importance,XGBoost
+text__terrible,0.0,,tree impurity importance,XGBoost
+text__terrifying,0.0,,tree impurity importance,XGBoost
+text__tesla,0.0,,tree impurity importance,XGBoost
+text__tesla ceo,0.0,,tree impurity importance,XGBoost
+text__tech giants,0.0,,tree impurity importance,XGBoost
+text__tech giant,0.0,,tree impurity importance,XGBoost
+text__tech company,0.0,,tree impurity importance,XGBoost
+text__taylor,0.0,,tree impurity importance,XGBoost
+text__talks,0.0,,tree impurity importance,XGBoost
+text__target,0.0,,tree impurity importance,XGBoost
+text__targeted,0.0,,tree impurity importance,XGBoost
+text__targets,0.0,,tree impurity importance,XGBoost
+text__tariffs,0.0,,tree impurity importance,XGBoost
+text__tax,0.0,,tree impurity importance,XGBoost
+text__taylor swift,0.0,,tree impurity importance,XGBoost
+text__tech companies,0.0,,tree impurity importance,XGBoost
+text__teach,0.0,,tree impurity importance,XGBoost
+text__teachers,0.0,,tree impurity importance,XGBoost
+text__teaching,0.0,,tree impurity importance,XGBoost
+text__team,0.0,,tree impurity importance,XGBoost
+text__teams,0.0,,tree impurity importance,XGBoost
+text__tech bros,0.0,,tree impurity importance,XGBoost
+text__test,0.0,,tree impurity importance,XGBoost
+text__tested,0.0,,tree impurity importance,XGBoost
+text__testing,0.0,,tree impurity importance,XGBoost
+text__tiktok,0.0,,tree impurity importance,XGBoost
+text__threat ai,0.0,,tree impurity importance,XGBoost
+text__threaten,0.0,,tree impurity importance,XGBoost
+text__threatens,0.0,,tree impurity importance,XGBoost
+text__threats,0.0,,tree impurity importance,XGBoost
+text__thriller,0.0,,tree impurity importance,XGBoost
+text__ties,0.0,,tree impurity importance,XGBoost
+text__tilly,0.0,,tree impurity importance,XGBoost
+text__thousands,0.0,,tree impurity importance,XGBoost
+text__tipping,0.0,,tree impurity importance,XGBoost
+text__titans,0.0,,tree impurity importance,XGBoost
+text__titles,0.0,,tree impurity importance,XGBoost
+text__today newsletter,0.0,,tree impurity importance,XGBoost
+text__told,0.0,,tree impurity importance,XGBoost
+text__tom hanks,0.0,,tree impurity importance,XGBoost
+text__threat,0.0,,tree impurity importance,XGBoost
+text__thoughts,0.0,,tree impurity importance,XGBoost
+text__tests,0.0,,tree impurity importance,XGBoost
+text__theory,0.0,,tree impurity importance,XGBoost
+text__texas,0.0,,tree impurity importance,XGBoost
+text__thanks,0.0,,tree impurity importance,XGBoost
+text__thanks ai,0.0,,tree impurity importance,XGBoost
+text__theatre,0.0,,tree impurity importance,XGBoost
+text__theft,0.0,,tree impurity importance,XGBoost
+text__theories,0.0,,tree impurity importance,XGBoost
+text__therapy,0.0,,tree impurity importance,XGBoost
+text__thought,0.0,,tree impurity importance,XGBoost
+text__things,0.0,,tree impurity importance,XGBoost
+text__think,0.0,,tree impurity importance,XGBoost
+text__think ai,0.0,,tree impurity importance,XGBoost
+text__thinking,0.0,,tree impurity importance,XGBoost
+text__thinks,0.0,,tree impurity importance,XGBoost
+text__thinktank,0.0,,tree impurity importance,XGBoost
+text__urgent,0.0,,tree impurity importance,XGBoost
+text__urges,0.0,,tree impurity importance,XGBoost
+text__use artificial,0.0,,tree impurity importance,XGBoost
+text__use chatgpt,0.0,,tree impurity importance,XGBoost
+text__winner,0.0,,tree impurity importance,XGBoost
+text__winning,0.0,,tree impurity importance,XGBoost
+text__wins,0.0,,tree impurity importance,XGBoost
+text__wiped,0.0,,tree impurity importance,XGBoost
+text__woes,0.0,,tree impurity importance,XGBoost
+text__woman,0.0,,tree impurity importance,XGBoost
+text__won,0.0,,tree impurity importance,XGBoost
+text__word,0.0,,tree impurity importance,XGBoost
+text__words,0.0,,tree impurity importance,XGBoost
+text__worked,0.0,,tree impurity importance,XGBoost
+text__worker,0.0,,tree impurity importance,XGBoost
+text__workforce,0.0,,tree impurity importance,XGBoost
+text__working,0.0,,tree impurity importance,XGBoost
+text__works,0.0,,tree impurity importance,XGBoost
+text__world economic,0.0,,tree impurity importance,XGBoost
+text__win,0.0,,tree impurity importance,XGBoost
+text__wimbledon,0.0,,tree impurity importance,XGBoost
+text__williams,0.0,,tree impurity importance,XGBoost
+text__whatsapp,0.0,,tree impurity importance,XGBoost
+text__weiwei,0.0,,tree impurity importance,XGBoost
+text__welcome,0.0,,tree impurity importance,XGBoost
+text__went,0.0,,tree impurity importance,XGBoost
+text__wes,0.0,,tree impurity importance,XGBoost
+text__west,0.0,,tree impurity importance,XGBoost
+text__western,0.0,,tree impurity importance,XGBoost
+text__white,0.0,,tree impurity importance,XGBoost
+text__wild,0.0,,tree impurity importance,XGBoost
+text__white house,0.0,,tree impurity importance,XGBoost
+text__whitehall,0.0,,tree impurity importance,XGBoost
+text__wide,0.0,,tree impurity importance,XGBoost
+text__wider,0.0,,tree impurity importance,XGBoost
+text__widespread,0.0,,tree impurity importance,XGBoost
+text__wife,0.0,,tree impurity importance,XGBoost
+text__world largest,0.0,,tree impurity importance,XGBoost
+text__world leaders,0.0,,tree impurity importance,XGBoost
+text__worried,0.0,,tree impurity importance,XGBoost
+numeric__has_chatgpt,0.0,,tree impurity importance,XGBoost
+text__york times,0.0,,tree impurity importance,XGBoost
+text__young,0.0,,tree impurity importance,XGBoost
+text__young people,0.0,,tree impurity importance,XGBoost
+text__zoe,0.0,,tree impurity importance,XGBoost
+text__zoe williams,0.0,,tree impurity importance,XGBoost
+numeric__post_chatgpt_period,0.0,,tree impurity importance,XGBoost
+numeric__has_llm,0.0,,tree impurity importance,XGBoost
+text__yes,0.0,,tree impurity importance,XGBoost
+numeric__has_generative_ai,0.0,,tree impurity importance,XGBoost
+numeric__has_machine_learning,0.0,,tree impurity importance,XGBoost
+numeric__has_deep_learning,0.0,,tree impurity importance,XGBoost
+numeric__has_neural_network,0.0,,tree impurity importance,XGBoost
+numeric__has_gemini,0.0,,tree impurity importance,XGBoost
+numeric__has_claude,0.0,,tree impurity importance,XGBoost
+text__york,0.0,,tree impurity importance,XGBoost
+text__years,0.0,,tree impurity importance,XGBoost
+text__worried ai,0.0,,tree impurity importance,XGBoost
+text__wpp,0.0,,tree impurity importance,XGBoost
+text__worries,0.0,,tree impurity importance,XGBoost
+text__worry,0.0,,tree impurity importance,XGBoost
+text__worrying,0.0,,tree impurity importance,XGBoost
+text__worse,0.0,,tree impurity importance,XGBoost
+text__worst,0.0,,tree impurity importance,XGBoost
+text__worth,0.0,,tree impurity importance,XGBoost
+text__writer,0.0,,tree impurity importance,XGBoost
+text__year old,0.0,,tree impurity importance,XGBoost
+text__writers,0.0,,tree impurity importance,XGBoost
+text__writes,0.0,,tree impurity importance,XGBoost
+text__writes arwa,0.0,,tree impurity importance,XGBoost
+text__writing,0.0,,tree impurity importance,XGBoost
+text__wrongly,0.0,,tree impurity importance,XGBoost
+text__wrote,0.0,,tree impurity importance,XGBoost
+text__weird,0.0,,tree impurity importance,XGBoost
+text__weeks,0.0,,tree impurity importance,XGBoost
+text__weekly,0.0,,tree impurity importance,XGBoost
+text__view,0.0,,tree impurity importance,XGBoost
+text__version,0.0,,tree impurity importance,XGBoost
+text__versions,0.0,,tree impurity importance,XGBoost
+text__victims,0.0,,tree impurity importance,XGBoost
+text__video,0.0,,tree impurity importance,XGBoost
+text__video game,0.0,,tree impurity importance,XGBoost
+text__videos,0.0,,tree impurity importance,XGBoost
+text__view ai,0.0,,tree impurity importance,XGBoost
+text__ve,0.0,,tree impurity importance,XGBoost
+text__views,0.0,,tree impurity importance,XGBoost
+text__violence,0.0,,tree impurity importance,XGBoost
+text__violent,0.0,,tree impurity importance,XGBoost
+text__viral,0.0,,tree impurity importance,XGBoost
+text__virtual,0.0,,tree impurity importance,XGBoost
+text__vision,0.0,,tree impurity importance,XGBoost
+text__venture,0.0,,tree impurity importance,XGBoost
+text__vast,0.0,,tree impurity importance,XGBoost
+text__vital,0.0,,tree impurity importance,XGBoost
+text__uses ai,0.0,,tree impurity importance,XGBoost
+text__use copyrighted,0.0,,tree impurity importance,XGBoost
+text__used ai,0.0,,tree impurity importance,XGBoost
+text__used chatgpt,0.0,,tree impurity importance,XGBoost
+text__used train,0.0,,tree impurity importance,XGBoost
+text__useful,0.0,,tree impurity importance,XGBoost
+text__user,0.0,,tree impurity importance,XGBoost
+text__using artificial,0.0,,tree impurity importance,XGBoost
+text__values,0.0,,tree impurity importance,XGBoost
+text__using chatgpt,0.0,,tree impurity importance,XGBoost
+text__valley,0.0,,tree impurity importance,XGBoost
+text__valuable,0.0,,tree impurity importance,XGBoost
+text__valuation,0.0,,tree impurity importance,XGBoost
+text__value,0.0,,tree impurity importance,XGBoost
+text__valued,0.0,,tree impurity importance,XGBoost
+text__visit,0.0,,tree impurity importance,XGBoost
+text__vocal,0.0,,tree impurity importance,XGBoost
+text__week newsletter,0.0,,tree impurity importance,XGBoost
+text__wave,0.0,,tree impurity importance,XGBoost
+text__wary,0.0,,tree impurity importance,XGBoost
+text__washington,0.0,,tree impurity importance,XGBoost
+text__waste,0.0,,tree impurity importance,XGBoost
+text__watch,0.0,,tree impurity importance,XGBoost
+text__watch foundation,0.0,,tree impurity importance,XGBoost
+text__water,0.0,,tree impurity importance,XGBoost
+text__way,0.0,,tree impurity importance,XGBoost
+text__warns ai,0.0,,tree impurity importance,XGBoost
+text__ways ai,0.0,,tree impurity importance,XGBoost
+text__wealth,0.0,,tree impurity importance,XGBoost
+text__weapons,0.0,,tree impurity importance,XGBoost
+text__web,0.0,,tree impurity importance,XGBoost
+text__websites,0.0,,tree impurity importance,XGBoost
+text__wednesday,0.0,,tree impurity importance,XGBoost
+text__wars,0.0,,tree impurity importance,XGBoost
+text__warnings,0.0,,tree impurity importance,XGBoost
+text__vocals,0.0,,tree impurity importance,XGBoost
+text__wales,0.0,,tree impurity importance,XGBoost
+text__voices,0.0,,tree impurity importance,XGBoost
+text__vote,0.0,,tree impurity importance,XGBoost
+text__voters,0.0,,tree impurity importance,XGBoost
+text__vulnerable,0.0,,tree impurity importance,XGBoost
+text__waiting,0.0,,tree impurity importance,XGBoost
+text__wake,0.0,,tree impurity importance,XGBoost
+text__walker,0.0,,tree impurity importance,XGBoost
+text__warning,0.0,,tree impurity importance,XGBoost
+text__wall street,0.0,,tree impurity importance,XGBoost
+text__want,0.0,,tree impurity importance,XGBoost
+text__wanted,0.0,,tree impurity importance,XGBoost
+text__war,0.0,,tree impurity importance,XGBoost
+text__warfare,0.0,,tree impurity importance,XGBoost
+text__warned,0.0,,tree impurity importance,XGBoost
+text__talking,0.0,,tree impurity importance,XGBoost
+text__talk,0.0,,tree impurity importance,XGBoost
+text__tale,0.0,,tree impurity importance,XGBoost
+text__sharing,0.0,,tree impurity importance,XGBoost
+text__scramble,0.0,,tree impurity importance,XGBoost
+text__scraping,0.0,,tree impurity importance,XGBoost
+text__screen,0.0,,tree impurity importance,XGBoost
+text__screening,0.0,,tree impurity importance,XGBoost
+text__scripts,0.0,,tree impurity importance,XGBoost
+text__scrutiny,0.0,,tree impurity importance,XGBoost
+text__search,0.0,,tree impurity importance,XGBoost
+text__search engine,0.0,,tree impurity importance,XGBoost
+text__season,0.0,,tree impurity importance,XGBoost
+text__seats,0.0,,tree impurity importance,XGBoost
+text__second,0.0,,tree impurity importance,XGBoost
+text__seconds,0.0,,tree impurity importance,XGBoost
+text__secret,0.0,,tree impurity importance,XGBoost
+text__secrets,0.0,,tree impurity importance,XGBoost
+text__sector,0.0,,tree impurity importance,XGBoost
+text__scottish,0.0,,tree impurity importance,XGBoost
+text__scientists,0.0,,tree impurity importance,XGBoost
+text__scientist,0.0,,tree impurity importance,XGBoost
+text__scary,0.0,,tree impurity importance,XGBoost
+text__scams,0.0,,tree impurity importance,XGBoost
+text__scan,0.0,,tree impurity importance,XGBoost
+text__scans,0.0,,tree impurity importance,XGBoost
+text__scared,0.0,,tree impurity importance,XGBoost
+text__scarlett,0.0,,tree impurity importance,XGBoost
+text__scarlett johansson,0.0,,tree impurity importance,XGBoost
+text__scenes,0.0,,tree impurity importance,XGBoost
+text__scientific,0.0,,tree impurity importance,XGBoost
+text__scheme,0.0,,tree impurity importance,XGBoost
+text__school,0.0,,tree impurity importance,XGBoost
+text__schools,0.0,,tree impurity importance,XGBoost
+text__sci,0.0,,tree impurity importance,XGBoost
+text__sci fi,0.0,,tree impurity importance,XGBoost
+text__science,0.0,,tree impurity importance,XGBoost
+text__security,0.0,,tree impurity importance,XGBoost
+text__seeing,0.0,,tree impurity importance,XGBoost
+text__seek,0.0,,tree impurity importance,XGBoost
+text__seven,0.0,,tree impurity importance,XGBoost
+text__seriously,0.0,,tree impurity importance,XGBoost
+text__servers,0.0,,tree impurity importance,XGBoost
+text__service,0.0,,tree impurity importance,XGBoost
+text__services,0.0,,tree impurity importance,XGBoost
+text__set,0.0,,tree impurity importance,XGBoost
+text__sets,0.0,,tree impurity importance,XGBoost
+text__sex,0.0,,tree impurity importance,XGBoost
+text__sentient,0.0,,tree impurity importance,XGBoost
+text__sexual,0.0,,tree impurity importance,XGBoost
+text__sexual abuse,0.0,,tree impurity importance,XGBoost
+text__shadow,0.0,,tree impurity importance,XGBoost
+text__shape,0.0,,tree impurity importance,XGBoost
+text__shaping,0.0,,tree impurity importance,XGBoost
+text__shared,0.0,,tree impurity importance,XGBoost
+text__series,0.0,,tree impurity importance,XGBoost
+text__sent,0.0,,tree impurity importance,XGBoost
+text__seeking,0.0,,tree impurity importance,XGBoost
+text__sell,0.0,,tree impurity importance,XGBoost
+text__seeks,0.0,,tree impurity importance,XGBoost
+text__seen,0.0,,tree impurity importance,XGBoost
+text__sees,0.0,,tree impurity importance,XGBoost
+text__select,0.0,,tree impurity importance,XGBoost
+text__self,0.0,,tree impurity importance,XGBoost
+text__self driving,0.0,,tree impurity importance,XGBoost
+text__senate,0.0,,tree impurity importance,XGBoost
+text__sensitive,0.0,,tree impurity importance,XGBoost
+text__senator,0.0,,tree impurity importance,XGBoost
+text__send,0.0,,tree impurity importance,XGBoost
+text__sending,0.0,,tree impurity importance,XGBoost
+text__sends,0.0,,tree impurity importance,XGBoost
+text__senior,0.0,,tree impurity importance,XGBoost
+text__sense,0.0,,tree impurity importance,XGBoost
+text__scammers,0.0,,tree impurity importance,XGBoost
+text__scam,0.0,,tree impurity importance,XGBoost
+text__scale,0.0,,tree impurity importance,XGBoost
+text__roles,0.0,,tree impurity importance,XGBoost
+text__robocall,0.0,,tree impurity importance,XGBoost
+text__robot,0.0,,tree impurity importance,XGBoost
+text__robotics,0.0,,tree impurity importance,XGBoost
+text__robots,0.0,,tree impurity importance,XGBoost
+text__rock,0.0,,tree impurity importance,XGBoost
+text__rogue,0.0,,tree impurity importance,XGBoost
+text__rolling,0.0,,tree impurity importance,XGBoost
+text__road,0.0,,tree impurity importance,XGBoost
+text__rollout,0.0,,tree impurity importance,XGBoost
+text__romantic,0.0,,tree impurity importance,XGBoost
+text__room,0.0,,tree impurity importance,XGBoost
+text__rose,0.0,,tree impurity importance,XGBoost
+text__row,0.0,,tree impurity importance,XGBoost
+text__royal,0.0,,tree impurity importance,XGBoost
+text__robert,0.0,,tree impurity importance,XGBoost
+text__rivals,0.0,,tree impurity importance,XGBoost
+text__rule,0.0,,tree impurity importance,XGBoost
+text__richard,0.0,,tree impurity importance,XGBoost
+text__review ai,0.0,,tree impurity importance,XGBoost
+text__reviews,0.0,,tree impurity importance,XGBoost
+text__revolution,0.0,,tree impurity importance,XGBoost
+text__revolutionise,0.0,,tree impurity importance,XGBoost
+text__rewards,0.0,,tree impurity importance,XGBoost
+text__rich,0.0,,tree impurity importance,XGBoost
+text__richest,0.0,,tree impurity importance,XGBoost
+text__rival,0.0,,tree impurity importance,XGBoost
+text__right,0.0,,tree impurity importance,XGBoost
+text__rise ai,0.0,,tree impurity importance,XGBoost
+text__rishi,0.0,,tree impurity importance,XGBoost
+text__rishi sunak,0.0,,tree impurity importance,XGBoost
+text__rising,0.0,,tree impurity importance,XGBoost
+text__risk ai,0.0,,tree impurity importance,XGBoost
+text__ruin,0.0,,tree impurity importance,XGBoost
+text__rules,0.0,,tree impurity importance,XGBoost
+text__says writer,0.0,,tree impurity importance,XGBoost
+text__says author,0.0,,tree impurity importance,XGBoost
+text__saw,0.0,,tree impurity importance,XGBoost
+text__say ai,0.0,,tree impurity importance,XGBoost
+text__say experts,0.0,,tree impurity importance,XGBoost
+text__saying,0.0,,tree impurity importance,XGBoost
+text__says ai,0.0,,tree impurity importance,XGBoost
+text__says artificial,0.0,,tree impurity importance,XGBoost
+text__says company,0.0,,tree impurity importance,XGBoost
+text__save,0.0,,tree impurity importance,XGBoost
+text__says government,0.0,,tree impurity importance,XGBoost
+text__says guardian,0.0,,tree impurity importance,XGBoost
+text__ll,0.0,,tree impurity importance,XGBoost
+text__says tech,0.0,,tree impurity importance,XGBoost
+text__says technology,0.0,,tree impurity importance,XGBoost
+text__says uk,0.0,,tree impurity importance,XGBoost
+text__saving,0.0,,tree impurity importance,XGBoost
+text__sarah,0.0,,tree impurity importance,XGBoost
+text__ruling,0.0,,tree impurity importance,XGBoost
+text__sacking,0.0,,tree impurity importance,XGBoost
+text__run,0.0,,tree impurity importance,XGBoost
+text__running,0.0,,tree impurity importance,XGBoost
+text__rush,0.0,,tree impurity importance,XGBoost
+text__russell,0.0,,tree impurity importance,XGBoost
+text__russia,0.0,,tree impurity importance,XGBoost
+text__russian,0.0,,tree impurity importance,XGBoost
+text__safe,0.0,,tree impurity importance,XGBoost
+text__samsung,0.0,,tree impurity importance,XGBoost
+text__safeguards,0.0,,tree impurity importance,XGBoost
+text__safety summit,0.0,,tree impurity importance,XGBoost
+text__sale,0.0,,tree impurity importance,XGBoost
+text__sales,0.0,,tree impurity importance,XGBoost
+text__sam,0.0,,tree impurity importance,XGBoost
+text__sam altman,0.0,,tree impurity importance,XGBoost
+text__shares,0.0,,tree impurity importance,XGBoost
+text__shift,0.0,,tree impurity importance,XGBoost
+text__taking,0.0,,tree impurity importance,XGBoost
+text__shocked,0.0,,tree impurity importance,XGBoost
+text__stokel walker,0.0,,tree impurity importance,XGBoost
+text__stories,0.0,,tree impurity importance,XGBoost
+text__story,0.0,,tree impurity importance,XGBoost
+text__strategic,0.0,,tree impurity importance,XGBoost
+text__strategy,0.0,,tree impurity importance,XGBoost
+text__streaming,0.0,,tree impurity importance,XGBoost
+text__street expectations,0.0,,tree impurity importance,XGBoost
+text__strike,0.0,,tree impurity importance,XGBoost
+text__strikes,0.0,,tree impurity importance,XGBoost
+text__striking,0.0,,tree impurity importance,XGBoost
+text__strong,0.0,,tree impurity importance,XGBoost
+text__stronger,0.0,,tree impurity importance,XGBoost
+text__structure,0.0,,tree impurity importance,XGBoost
+text__struggling,0.0,,tree impurity importance,XGBoost
+text__student,0.0,,tree impurity importance,XGBoost
+text__stokel,0.0,,tree impurity importance,XGBoost
+text__stocks,0.0,,tree impurity importance,XGBoost
+text__stock markets,0.0,,tree impurity importance,XGBoost
+text__statement,0.0,,tree impurity importance,XGBoost
+text__standards,0.0,,tree impurity importance,XGBoost
+text__star,0.0,,tree impurity importance,XGBoost
+text__stars,0.0,,tree impurity importance,XGBoost
+text__start,0.0,,tree impurity importance,XGBoost
+text__startups,0.0,,tree impurity importance,XGBoost
+text__state,0.0,,tree impurity importance,XGBoost
+text__states,0.0,,tree impurity importance,XGBoost
+text__stock market,0.0,,tree impurity importance,XGBoost
+text__stay,0.0,,tree impurity importance,XGBoost
+text__stealing,0.0,,tree impurity importance,XGBoost
+text__step,0.0,,tree impurity importance,XGBoost
+text__stephen,0.0,,tree impurity importance,XGBoost
+text__steve,0.0,,tree impurity importance,XGBoost
+text__steven,0.0,,tree impurity importance,XGBoost
+text__study,0.0,,tree impurity importance,XGBoost
+text__stuff,0.0,,tree impurity importance,XGBoost
+text__style,0.0,,tree impurity importance,XGBoost
+text__survey finds,0.0,,tree impurity importance,XGBoost
+text__sure,0.0,,tree impurity importance,XGBoost
+text__surge,0.0,,tree impurity importance,XGBoost
+text__surgery,0.0,,tree impurity importance,XGBoost
+text__surprise,0.0,,tree impurity importance,XGBoost
+text__surveillance,0.0,,tree impurity importance,XGBoost
+text__survey,0.0,,tree impurity importance,XGBoost
+text__swift,0.0,,tree impurity importance,XGBoost
+text__supply,0.0,,tree impurity importance,XGBoost
+text__sydney,0.0,,tree impurity importance,XGBoost
+text__synthetic,0.0,,tree impurity importance,XGBoost
+text__tackle,0.0,,tree impurity importance,XGBoost
+text__taiwan,0.0,,tree impurity importance,XGBoost
+text__taken,0.0,,tree impurity importance,XGBoost
+text__takes,0.0,,tree impurity importance,XGBoost
+text__support,0.0,,tree impurity importance,XGBoost
+text__superintelligent,0.0,,tree impurity importance,XGBoost
+text__success,0.0,,tree impurity importance,XGBoost
+text__suicide,0.0,,tree impurity importance,XGBoost
+text__sue,0.0,,tree impurity importance,XGBoost
+text__sues,0.0,,tree impurity importance,XGBoost
+text__sues openai,0.0,,tree impurity importance,XGBoost
+text__suffer,0.0,,tree impurity importance,XGBoost
+text__suggest,0.0,,tree impurity importance,XGBoost
+text__suggests,0.0,,tree impurity importance,XGBoost
+text__summaries,0.0,,tree impurity importance,XGBoost
+text__superintelligence,0.0,,tree impurity importance,XGBoost
+text__summer,0.0,,tree impurity importance,XGBoost
+text__summit bletchley,0.0,,tree impurity importance,XGBoost
+text__sunak,0.0,,tree impurity importance,XGBoost
+text__sunak ai,0.0,,tree impurity importance,XGBoost
+text__super,0.0,,tree impurity importance,XGBoost
+text__supercomputer,0.0,,tree impurity importance,XGBoost
+text__standard,0.0,,tree impurity importance,XGBoost
+text__stake,0.0,,tree impurity importance,XGBoost
+text__stage,0.0,,tree impurity importance,XGBoost
+text__slop,0.0,,tree impurity importance,XGBoost
+text__siri,0.0,,tree impurity importance,XGBoost
+text__site,0.0,,tree impurity importance,XGBoost
+text__sites,0.0,,tree impurity importance,XGBoost
+text__skills,0.0,,tree impurity importance,XGBoost
+text__skin,0.0,,tree impurity importance,XGBoost
+text__sky,0.0,,tree impurity importance,XGBoost
+text__slow,0.0,,tree impurity importance,XGBoost
+text__singer,0.0,,tree impurity importance,XGBoost
+text__small,0.0,,tree impurity importance,XGBoost
+text__smart,0.0,,tree impurity importance,XGBoost
+text__smarter,0.0,,tree impurity importance,XGBoost
+text__smartphones,0.0,,tree impurity importance,XGBoost
+text__smith,0.0,,tree impurity importance,XGBoost
+text__soar,0.0,,tree impurity importance,XGBoost
+text__sinister,0.0,,tree impurity importance,XGBoost
+text__simple,0.0,,tree impurity importance,XGBoost
+text__society,0.0,,tree impurity importance,XGBoost
+text__sign,0.0,,tree impurity importance,XGBoost
+text__shooting,0.0,,tree impurity importance,XGBoost
+text__short,0.0,,tree impurity importance,XGBoost
+text__shouldn,0.0,,tree impurity importance,XGBoost
+text__showing,0.0,,tree impurity importance,XGBoost
+text__shown,0.0,,tree impurity importance,XGBoost
+text__shows,0.0,,tree impurity importance,XGBoost
+text__signal,0.0,,tree impurity importance,XGBoost
+text__simon,0.0,,tree impurity importance,XGBoost
+text__signed,0.0,,tree impurity importance,XGBoost
+text__signs,0.0,,tree impurity importance,XGBoost
+text__silicon,0.0,,tree impurity importance,XGBoost
+text__silicon valley,0.0,,tree impurity importance,XGBoost
+text__silly,0.0,,tree impurity importance,XGBoost
+text__similar,0.0,,tree impurity importance,XGBoost
+text__soaring,0.0,,tree impurity importance,XGBoost
+text__softbank,0.0,,tree impurity importance,XGBoost
+text__staff,0.0,,tree impurity importance,XGBoost
+text__spend,0.0,,tree impurity importance,XGBoost
+text__speaking,0.0,,tree impurity importance,XGBoost
+text__speaks,0.0,,tree impurity importance,XGBoost
+text__special,0.0,,tree impurity importance,XGBoost
+text__specialist,0.0,,tree impurity importance,XGBoost
+text__speech,0.0,,tree impurity importance,XGBoost
+text__speed,0.0,,tree impurity importance,XGBoost
+text__spending,0.0,,tree impurity importance,XGBoost
+text__sparks,0.0,,tree impurity importance,XGBoost
+text__spent,0.0,,tree impurity importance,XGBoost
+text__spot,0.0,,tree impurity importance,XGBoost
+text__spotify,0.0,,tree impurity importance,XGBoost
+text__spread,0.0,,tree impurity importance,XGBoost
+text__spy,0.0,,tree impurity importance,XGBoost
+text__square,0.0,,tree impurity importance,XGBoost
+text__speak,0.0,,tree impurity importance,XGBoost
+text__space,0.0,,tree impurity importance,XGBoost
+text__software,0.0,,tree impurity importance,XGBoost
+text__song,0.0,,tree impurity importance,XGBoost
+text__sold,0.0,,tree impurity importance,XGBoost
+text__solution,0.0,,tree impurity importance,XGBoost
+text__solutions,0.0,,tree impurity importance,XGBoost
+text__solve,0.0,,tree impurity importance,XGBoost
+text__solved,0.0,,tree impurity importance,XGBoost
+text__son,0.0,,tree impurity importance,XGBoost
+text__songs,0.0,,tree impurity importance,XGBoost
+text__south,0.0,,tree impurity importance,XGBoost
+text__soon,0.0,,tree impurity importance,XGBoost
+text__sophisticated,0.0,,tree impurity importance,XGBoost
+text__sora,0.0,,tree impurity importance,XGBoost
+text__sorry,0.0,,tree impurity importance,XGBoost
+text__sounds,0.0,,tree impurity importance,XGBoost
+text__source,0.0,,tree impurity importance,XGBoost
+text__llms,0.0,,tree impurity importance,XGBoost
+text__largest,0.0,,tree impurity importance,XGBoost
+text__living,0.0,,tree impurity importance,XGBoost
+text__changed,0.0,,tree impurity importance,XGBoost
+text__changing,0.0,,tree impurity importance,XGBoost
+text__channel,0.0,,tree impurity importance,XGBoost
+text__chaos,0.0,,tree impurity importance,XGBoost
+text__characters,0.0,,tree impurity importance,XGBoost
+text__charge,0.0,,tree impurity importance,XGBoost
+text__charged,0.0,,tree impurity importance,XGBoost
+text__charity,0.0,,tree impurity importance,XGBoost
+text__charts,0.0,,tree impurity importance,XGBoost
+text__chat,0.0,,tree impurity importance,XGBoost
+text__chatgpt developer,0.0,,tree impurity importance,XGBoost
+text__chatgpt maker,0.0,,tree impurity importance,XGBoost
+text__cheap,0.0,,tree impurity importance,XGBoost
+text__cheaper,0.0,,tree impurity importance,XGBoost
+text__cheating,0.0,,tree impurity importance,XGBoost
+text__check,0.0,,tree impurity importance,XGBoost
+text__changes,0.0,,tree impurity importance,XGBoost
+text__change,0.0,,tree impurity importance,XGBoost
+text__chief,0.0,,tree impurity importance,XGBoost
+text__chancellor,0.0,,tree impurity importance,XGBoost
+text__center,0.0,,tree impurity importance,XGBoost
+text__centers,0.0,,tree impurity importance,XGBoost
+text__central,0.0,,tree impurity importance,XGBoost
+text__centre,0.0,,tree impurity importance,XGBoost
+text__centres,0.0,,tree impurity importance,XGBoost
+text__century,0.0,,tree impurity importance,XGBoost
+text__ceo sam,0.0,,tree impurity importance,XGBoost
+text__ceo says,0.0,,tree impurity importance,XGBoost
+text__certain,0.0,,tree impurity importance,XGBoost
+text__chain,0.0,,tree impurity importance,XGBoost
+text__chair,0.0,,tree impurity importance,XGBoost
+text__challenge,0.0,,tree impurity importance,XGBoost
+text__challenges,0.0,,tree impurity importance,XGBoost
+text__challenging,0.0,,tree impurity importance,XGBoost
+text__chance,0.0,,tree impurity importance,XGBoost
+text__checks,0.0,,tree impurity importance,XGBoost
+text__chief executive,0.0,,tree impurity importance,XGBoost
+text__cma,0.0,,tree impurity importance,XGBoost
+text__civil,0.0,,tree impurity importance,XGBoost
+text__claimed,0.0,,tree impurity importance,XGBoost
+text__claiming,0.0,,tree impurity importance,XGBoost
+text__claims,0.0,,tree impurity importance,XGBoost
+text__class,0.0,,tree impurity importance,XGBoost
+text__classic,0.0,,tree impurity importance,XGBoost
+text__claude,0.0,,tree impurity importance,XGBoost
+text__clean,0.0,,tree impurity importance,XGBoost
+text__clear,0.0,,tree impurity importance,XGBoost
+text__clegg,0.0,,tree impurity importance,XGBoost
+text__climate crisis,0.0,,tree impurity importance,XGBoost
+text__clinic,0.0,,tree impurity importance,XGBoost
+text__cloning,0.0,,tree impurity importance,XGBoost
+text__close,0.0,,tree impurity importance,XGBoost
+text__closed,0.0,,tree impurity importance,XGBoost
+text__closer,0.0,,tree impurity importance,XGBoost
+text__claim,0.0,,tree impurity importance,XGBoost
+text__city,0.0,,tree impurity importance,XGBoost
+text__child,0.0,,tree impurity importance,XGBoost
+text__citizens,0.0,,tree impurity importance,XGBoost
+text__child sexual,0.0,,tree impurity importance,XGBoost
+text__childhood,0.0,,tree impurity importance,XGBoost
+text__children,0.0,,tree impurity importance,XGBoost
+text__chilling,0.0,,tree impurity importance,XGBoost
+text__chinese ai,0.0,,tree impurity importance,XGBoost
+text__chipmaker,0.0,,tree impurity importance,XGBoost
+text__chipmaker nvidia,0.0,,tree impurity importance,XGBoost
+text__chips,0.0,,tree impurity importance,XGBoost
+text__choices,0.0,,tree impurity importance,XGBoost
+text__chris,0.0,,tree impurity importance,XGBoost
+text__chris stokel,0.0,,tree impurity importance,XGBoost
+text__christmas,0.0,,tree impurity importance,XGBoost
+text__christopher,0.0,,tree impurity importance,XGBoost
+text__cinema,0.0,,tree impurity importance,XGBoost
+text__citations,0.0,,tree impurity importance,XGBoost
+text__celebrities,0.0,,tree impurity importance,XGBoost
+text__caused,0.0,,tree impurity importance,XGBoost
+text__cause,0.0,,tree impurity importance,XGBoost
+text__board,0.0,,tree impurity importance,XGBoost
+text__book,0.0,,tree impurity importance,XGBoost
+text__books train,0.0,,tree impurity importance,XGBoost
+text__boost,0.0,,tree impurity importance,XGBoost
+text__bosses,0.0,,tree impurity importance,XGBoost
+text__bots,0.0,,tree impurity importance,XGBoost
+text__box,0.0,,tree impurity importance,XGBoost
+text__boys,0.0,,tree impurity importance,XGBoost
+text__brain,0.0,,tree impurity importance,XGBoost
+text__brand,0.0,,tree impurity importance,XGBoost
+text__brands,0.0,,tree impurity importance,XGBoost
+text__breach,0.0,,tree impurity importance,XGBoost
+text__break,0.0,,tree impurity importance,XGBoost
+text__breakthrough,0.0,,tree impurity importance,XGBoost
+text__breakthroughs,0.0,,tree impurity importance,XGBoost
+text__brexit,0.0,,tree impurity importance,XGBoost
+text__body,0.0,,tree impurity importance,XGBoost
+text__blue,0.0,,tree impurity importance,XGBoost
+text__caught,0.0,,tree impurity importance,XGBoost
+text__blow,0.0,,tree impurity importance,XGBoost
+text__birds,0.0,,tree impurity importance,XGBoost
+text__bit,0.0,,tree impurity importance,XGBoost
+text__black,0.0,,tree impurity importance,XGBoost
+text__black box,0.0,,tree impurity importance,XGBoost
+text__black mirror,0.0,,tree impurity importance,XGBoost
+text__blair,0.0,,tree impurity importance,XGBoost
+text__blame,0.0,,tree impurity importance,XGBoost
+text__bletchley,0.0,,tree impurity importance,XGBoost
+text__bletchley park,0.0,,tree impurity importance,XGBoost
+text__blind,0.0,,tree impurity importance,XGBoost
+text__block,0.0,,tree impurity importance,XGBoost
+text__blocks,0.0,,tree impurity importance,XGBoost
+text__blog,0.0,,tree impurity importance,XGBoost
+text__blog closed,0.0,,tree impurity importance,XGBoost
+text__blood,0.0,,tree impurity importance,XGBoost
+text__briefing,0.0,,tree impurity importance,XGBoost
+text__bring,0.0,,tree impurity importance,XGBoost
+text__brings,0.0,,tree impurity importance,XGBoost
+text__britain,0.0,,tree impurity importance,XGBoost
+text__campaign,0.0,,tree impurity importance,XGBoost
+text__campaigners,0.0,,tree impurity importance,XGBoost
+text__capabilities,0.0,,tree impurity importance,XGBoost
+text__capable,0.0,,tree impurity importance,XGBoost
+text__capacity,0.0,,tree impurity importance,XGBoost
+text__capital,0.0,,tree impurity importance,XGBoost
+text__car,0.0,,tree impurity importance,XGBoost
+text__care,0.0,,tree impurity importance,XGBoost
+text__career,0.0,,tree impurity importance,XGBoost
+text__carry,0.0,,tree impurity importance,XGBoost
+text__case,0.0,,tree impurity importance,XGBoost
+text__cases,0.0,,tree impurity importance,XGBoost
+text__cat,0.0,,tree impurity importance,XGBoost
+text__catastrophe,0.0,,tree impurity importance,XGBoost
+text__catch,0.0,,tree impurity importance,XGBoost
+text__cameras,0.0,,tree impurity importance,XGBoost
+text__came,0.0,,tree impurity importance,XGBoost
+text__cambridge,0.0,,tree impurity importance,XGBoost
+text__built,0.0,,tree impurity importance,XGBoost
+text__britain ai,0.0,,tree impurity importance,XGBoost
+text__broken,0.0,,tree impurity importance,XGBoost
+text__bros,0.0,,tree impurity importance,XGBoost
+text__brought,0.0,,tree impurity importance,XGBoost
+text__bt,0.0,,tree impurity importance,XGBoost
+text__building,0.0,,tree impurity importance,XGBoost
+text__burst,0.0,,tree impurity importance,XGBoost
+text__calls,0.0,,tree impurity importance,XGBoost
+text__businesses,0.0,,tree impurity importance,XGBoost
+text__buy,0.0,,tree impurity importance,XGBoost
+text__buying,0.0,,tree impurity importance,XGBoost
+text__cabinet,0.0,,tree impurity importance,XGBoost
+text__called,0.0,,tree impurity importance,XGBoost
+text__calling,0.0,,tree impurity importance,XGBoost
+text__cloud,0.0,,tree impurity importance,XGBoost
+text__code,0.0,,tree impurity importance,XGBoost
+text__billions,0.0,,tree impurity importance,XGBoost
+text__criminals,0.0,,tree impurity importance,XGBoost
+text__critical,0.0,,tree impurity importance,XGBoost
+text__critics,0.0,,tree impurity importance,XGBoost
+text__critics say,0.0,,tree impurity importance,XGBoost
+text__cross,0.0,,tree impurity importance,XGBoost
+text__crucial,0.0,,tree impurity importance,XGBoost
+text__cruise,0.0,,tree impurity importance,XGBoost
+text__crypto,0.0,,tree impurity importance,XGBoost
+text__cultural,0.0,,tree impurity importance,XGBoost
+text__culture,0.0,,tree impurity importance,XGBoost
+text__current,0.0,,tree impurity importance,XGBoost
+text__customer,0.0,,tree impurity importance,XGBoost
+text__customers,0.0,,tree impurity importance,XGBoost
+text__cut,0.0,,tree impurity importance,XGBoost
+text__cuts,0.0,,tree impurity importance,XGBoost
+text__cutting,0.0,,tree impurity importance,XGBoost
+text__crisis,0.0,,tree impurity importance,XGBoost
+text__crimes,0.0,,tree impurity importance,XGBoost
+text__cybersecurity,0.0,,tree impurity importance,XGBoost
+text__crime,0.0,,tree impurity importance,XGBoost
+text__covid,0.0,,tree impurity importance,XGBoost
+text__crackdown,0.0,,tree impurity importance,XGBoost
+text__cracking,0.0,,tree impurity importance,XGBoost
+text__create ai,0.0,,tree impurity importance,XGBoost
+text__create new,0.0,,tree impurity importance,XGBoost
+text__created ai,0.0,,tree impurity importance,XGBoost
+text__creates,0.0,,tree impurity importance,XGBoost
+text__creating,0.0,,tree impurity importance,XGBoost
+text__creation,0.0,,tree impurity importance,XGBoost
+text__creative industries,0.0,,tree impurity importance,XGBoost
+text__creatives,0.0,,tree impurity importance,XGBoost
+text__creativity,0.0,,tree impurity importance,XGBoost
+text__creator,0.0,,tree impurity importance,XGBoost
+text__creators,0.0,,tree impurity importance,XGBoost
+text__creepy,0.0,,tree impurity importance,XGBoost
+text__cutting edge,0.0,,tree impurity importance,XGBoost
+text__da,0.0,,tree impurity importance,XGBoost
+text__collection,0.0,,tree impurity importance,XGBoost
+text__dating,0.0,,tree impurity importance,XGBoost
+text__david,0.0,,tree impurity importance,XGBoost
+text__davos,0.0,,tree impurity importance,XGBoost
+text__day,0.0,,tree impurity importance,XGBoost
+text__days,0.0,,tree impurity importance,XGBoost
+text__dead,0.0,,tree impurity importance,XGBoost
+text__deal,0.0,,tree impurity importance,XGBoost
+text__deals,0.0,,tree impurity importance,XGBoost
+text__death,0.0,,tree impurity importance,XGBoost
+text__debate,0.0,,tree impurity importance,XGBoost
+text__decade,0.0,,tree impurity importance,XGBoost
+text__decades,0.0,,tree impurity importance,XGBoost
+text__decide,0.0,,tree impurity importance,XGBoost
+text__decided,0.0,,tree impurity importance,XGBoost
+text__decision,0.0,,tree impurity importance,XGBoost
+text__decisions,0.0,,tree impurity importance,XGBoost
+text__daughter,0.0,,tree impurity importance,XGBoost
+text__date,0.0,,tree impurity importance,XGBoost
+text__daily,0.0,,tree impurity importance,XGBoost
+text__datacentres,0.0,,tree impurity importance,XGBoost
+text__dall,0.0,,tree impurity importance,XGBoost
+text__damage,0.0,,tree impurity importance,XGBoost
+text__damaging,0.0,,tree impurity importance,XGBoost
+text__danger,0.0,,tree impurity importance,XGBoost
+text__dangerous,0.0,,tree impurity importance,XGBoost
+text__dangers,0.0,,tree impurity importance,XGBoost
+text__dangers ai,0.0,,tree impurity importance,XGBoost
+text__dangers artificial,0.0,,tree impurity importance,XGBoost
+text__daniel,0.0,,tree impurity importance,XGBoost
+text__dark,0.0,,tree impurity importance,XGBoost
+text__data ai,0.0,,tree impurity importance,XGBoost
+text__data centers,0.0,,tree impurity importance,XGBoost
+text__database,0.0,,tree impurity importance,XGBoost
+text__datacenters,0.0,,tree impurity importance,XGBoost
+text__datacentre,0.0,,tree impurity importance,XGBoost
+text__coverage,0.0,,tree impurity importance,XGBoost
+text__cover,0.0,,tree impurity importance,XGBoost
+text__court,0.0,,tree impurity importance,XGBoost
+text__companion,0.0,,tree impurity importance,XGBoost
+text__company says,0.0,,tree impurity importance,XGBoost
+text__compete,0.0,,tree impurity importance,XGBoost
+text__competition,0.0,,tree impurity importance,XGBoost
+text__complaint,0.0,,tree impurity importance,XGBoost
+text__complete,0.0,,tree impurity importance,XGBoost
+text__complex,0.0,,tree impurity importance,XGBoost
+text__computer,0.0,,tree impurity importance,XGBoost
+text__computer generated,0.0,,tree impurity importance,XGBoost
+text__computer scientist,0.0,,tree impurity importance,XGBoost
+text__computers,0.0,,tree impurity importance,XGBoost
+text__computing,0.0,,tree impurity importance,XGBoost
+text__concern,0.0,,tree impurity importance,XGBoost
+text__concerned,0.0,,tree impurity importance,XGBoost
+text__concerns,0.0,,tree impurity importance,XGBoost
+text__concerns ai,0.0,,tree impurity importance,XGBoost
+text__companions,0.0,,tree impurity importance,XGBoost
+text__community,0.0,,tree impurity importance,XGBoost
+text__courses,0.0,,tree impurity importance,XGBoost
+text__communications,0.0,,tree impurity importance,XGBoost
+text__college,0.0,,tree impurity importance,XGBoost
+text__columnist,0.0,,tree impurity importance,XGBoost
+text__columnist gaby,0.0,,tree impurity importance,XGBoost
+text__combat,0.0,,tree impurity importance,XGBoost
+text__come,0.0,,tree impurity importance,XGBoost
+text__comedian,0.0,,tree impurity importance,XGBoost
+text__comedy,0.0,,tree impurity importance,XGBoost
+text__comes,0.0,,tree impurity importance,XGBoost
+text__comments,0.0,,tree impurity importance,XGBoost
+text__commercial,0.0,,tree impurity importance,XGBoost
+text__commission,0.0,,tree impurity importance,XGBoost
+text__commissioner,0.0,,tree impurity importance,XGBoost
+text__committee,0.0,,tree impurity importance,XGBoost
+text__common,0.0,,tree impurity importance,XGBoost
+text__communication,0.0,,tree impurity importance,XGBoost
+text__conditions,0.0,,tree impurity importance,XGBoost
+text__conduct,0.0,,tree impurity importance,XGBoost
+text__conference,0.0,,tree impurity importance,XGBoost
+text__confident,0.0,,tree impurity importance,XGBoost
+text__conversation,0.0,,tree impurity importance,XGBoost
+text__conversations,0.0,,tree impurity importance,XGBoost
+text__copyright law,0.0,,tree impurity importance,XGBoost
+text__copyright laws,0.0,,tree impurity importance,XGBoost
+text__copyrighted,0.0,,tree impurity importance,XGBoost
+text__copyrighted material,0.0,,tree impurity importance,XGBoost
+text__corp,0.0,,tree impurity importance,XGBoost
+text__corporate,0.0,,tree impurity importance,XGBoost
+text__corporations,0.0,,tree impurity importance,XGBoost
+text__cost,0.0,,tree impurity importance,XGBoost
+text__costs,0.0,,tree impurity importance,XGBoost
+text__council,0.0,,tree impurity importance,XGBoost
+text__counter,0.0,,tree impurity importance,XGBoost
+text__countries,0.0,,tree impurity importance,XGBoost
+text__course,0.0,,tree impurity importance,XGBoost
+text__controversy,0.0,,tree impurity importance,XGBoost
+text__controversial,0.0,,tree impurity importance,XGBoost
+text__control,0.0,,tree impurity importance,XGBoost
+text__considers,0.0,,tree impurity importance,XGBoost
+text__connection,0.0,,tree impurity importance,XGBoost
+text__consciousness,0.0,,tree impurity importance,XGBoost
+text__consent,0.0,,tree impurity importance,XGBoost
+text__consequences,0.0,,tree impurity importance,XGBoost
+text__consider,0.0,,tree impurity importance,XGBoost
+text__considering,0.0,,tree impurity importance,XGBoost
+text__conspiracy,0.0,,tree impurity importance,XGBoost
+text__contract,0.0,,tree impurity importance,XGBoost
+text__construction,0.0,,tree impurity importance,XGBoost
+text__consultation,0.0,,tree impurity importance,XGBoost
+text__consumer,0.0,,tree impurity importance,XGBoost
+text__consumers,0.0,,tree impurity importance,XGBoost
+text__content,0.0,,tree impurity importance,XGBoost
+text__continues,0.0,,tree impurity importance,XGBoost
+text__bing,0.0,,tree impurity importance,XGBoost
+text__billionaires,0.0,,tree impurity importance,XGBoost
+text__decline,0.0,,tree impurity importance,XGBoost
+text__ai coming,0.0,,tree impurity importance,XGBoost
+text__ai copyright,0.0,,tree impurity importance,XGBoost
+text__ai create,0.0,,tree impurity importance,XGBoost
+text__ai da,0.0,,tree impurity importance,XGBoost
+text__ai data,0.0,,tree impurity importance,XGBoost
+text__ai deepfakes,0.0,,tree impurity importance,XGBoost
+text__ai development,0.0,,tree impurity importance,XGBoost
+text__ai driven,0.0,,tree impurity importance,XGBoost
+text__ai ethics,0.0,,tree impurity importance,XGBoost
+text__ai expert,0.0,,tree impurity importance,XGBoost
+text__ai features,0.0,,tree impurity importance,XGBoost
+text__ai film,0.0,,tree impurity importance,XGBoost
+text__ai firm,0.0,,tree impurity importance,XGBoost
+text__ai future,0.0,,tree impurity importance,XGBoost
+text__ai generated,0.0,,tree impurity importance,XGBoost
+text__ai help,0.0,,tree impurity importance,XGBoost
+text__ai companies,0.0,,tree impurity importance,XGBoost
+text__ai chips,0.0,,tree impurity importance,XGBoost
+text__ai image,0.0,,tree impurity importance,XGBoost
+text__ai chatbots,0.0,,tree impurity importance,XGBoost
+text__agrees,0.0,,tree impurity importance,XGBoost
+text__ahead,0.0,,tree impurity importance,XGBoost
+text__ai action,0.0,,tree impurity importance,XGBoost
+text__ai actor,0.0,,tree impurity importance,XGBoost
+text__ai agents,0.0,,tree impurity importance,XGBoost
+text__ai ai,0.0,,tree impurity importance,XGBoost
+text__ai app,0.0,,tree impurity importance,XGBoost
+text__ai arms,0.0,,tree impurity importance,XGBoost
+text__ai art,0.0,,tree impurity importance,XGBoost
+text__ai assisted,0.0,,tree impurity importance,XGBoost
+text__ai based,0.0,,tree impurity importance,XGBoost
+text__ai boom,0.0,,tree impurity importance,XGBoost
+text__ai bot,0.0,,tree impurity importance,XGBoost
+text__ai bubble,0.0,,tree impurity importance,XGBoost
+text__ai changing,0.0,,tree impurity importance,XGBoost
+text__ai human,0.0,,tree impurity importance,XGBoost
+text__ai images,0.0,,tree impurity importance,XGBoost
+text__ai weiwei,0.0,,tree impurity importance,XGBoost
+text__ai risks,0.0,,tree impurity importance,XGBoost
+text__ai says,0.0,,tree impurity importance,XGBoost
+text__ai slop,0.0,,tree impurity importance,XGBoost
+text__ai social,0.0,,tree impurity importance,XGBoost
+text__ai software,0.0,,tree impurity importance,XGBoost
+text__ai summit,0.0,,tree impurity importance,XGBoost
+text__ai systems,0.0,,tree impurity importance,XGBoost
+text__ai tech,0.0,,tree impurity importance,XGBoost
+text__ai technology,0.0,,tree impurity importance,XGBoost
+text__ai threat,0.0,,tree impurity importance,XGBoost
+text__ai tool,0.0,,tree impurity importance,XGBoost
+text__ai tools,0.0,,tree impurity importance,XGBoost
+text__ai use,0.0,,tree impurity importance,XGBoost
+text__ai used,0.0,,tree impurity importance,XGBoost
+text__ai video,0.0,,tree impurity importance,XGBoost
+text__ai videos,0.0,,tree impurity importance,XGBoost
+text__ai safety,0.0,,tree impurity importance,XGBoost
+text__ai revolution,0.0,,tree impurity importance,XGBoost
+text__ai industry,0.0,,tree impurity importance,XGBoost
+text__ai research,0.0,,tree impurity importance,XGBoost
+text__ai isn,0.0,,tree impurity importance,XGBoost
+text__ai job,0.0,,tree impurity importance,XGBoost
+text__ai jobs,0.0,,tree impurity importance,XGBoost
+text__ai make,0.0,,tree impurity importance,XGBoost
+text__ai makes,0.0,,tree impurity importance,XGBoost
+text__ai model,0.0,,tree impurity importance,XGBoost
+text__ai models,0.0,,tree impurity importance,XGBoost
+text__ai music,0.0,,tree impurity importance,XGBoost
+text__ai new,0.0,,tree impurity importance,XGBoost
+text__ai plan,0.0,,tree impurity importance,XGBoost
+text__ai program,0.0,,tree impurity importance,XGBoost
+text__ai race,0.0,,tree impurity importance,XGBoost
+text__ai real,0.0,,tree impurity importance,XGBoost
+text__ai regulation,0.0,,tree impurity importance,XGBoost
+text__ai replace,0.0,,tree impurity importance,XGBoost
+text__agreement,0.0,,tree impurity importance,XGBoost
+text__agents,0.0,,tree impurity importance,XGBoost
+text__agent,0.0,,tree impurity importance,XGBoost
+text__24,0.0,,tree impurity importance,XGBoost
+text__30,0.0,,tree impurity importance,XGBoost
+text__3bn,0.0,,tree impurity importance,XGBoost
+text__3d,0.0,,tree impurity importance,XGBoost
+text__4o,0.0,,tree impurity importance,XGBoost
+text__4tn,0.0,,tree impurity importance,XGBoost
+text__50,0.0,,tree impurity importance,XGBoost
+text__500,0.0,,tree impurity importance,XGBoost
+text__500bn,0.0,,tree impurity importance,XGBoost
+text__5bn,0.0,,tree impurity importance,XGBoost
+text__5m,0.0,,tree impurity importance,XGBoost
+text__60,0.0,,tree impurity importance,XGBoost
+text__80,0.0,,tree impurity importance,XGBoost
+text__abc,0.0,,tree impurity importance,XGBoost
+text__ability,0.0,,tree impurity importance,XGBoost
+text__able,0.0,,tree impurity importance,XGBoost
+text__25,0.0,,tree impurity importance,XGBoost
+text__2026,0.0,,tree impurity importance,XGBoost
+text__agencies,0.0,,tree impurity importance,XGBoost
+text__2025,0.0,,tree impurity importance,XGBoost
+text__100,0.0,,tree impurity importance,XGBoost
+text__11,0.0,,tree impurity importance,XGBoost
+text__12,0.0,,tree impurity importance,XGBoost
+text__13,0.0,,tree impurity importance,XGBoost
+text__15,0.0,,tree impurity importance,XGBoost
+text__16,0.0,,tree impurity importance,XGBoost
+text__17,0.0,,tree impurity importance,XGBoost
+text__18,0.0,,tree impurity importance,XGBoost
+text__1bn,0.0,,tree impurity importance,XGBoost
+text__1tn,0.0,,tree impurity importance,XGBoost
+text__20,0.0,,tree impurity importance,XGBoost
+text__200,0.0,,tree impurity importance,XGBoost
+text__2022,0.0,,tree impurity importance,XGBoost
+text__2023,0.0,,tree impurity importance,XGBoost
+text__2024,0.0,,tree impurity importance,XGBoost
+text__abuse,0.0,,tree impurity importance,XGBoost
+text__abuse images,0.0,,tree impurity importance,XGBoost
+text__abusive,0.0,,tree impurity importance,XGBoost
+text__academics,0.0,,tree impurity importance,XGBoost
+text__addressing,0.0,,tree impurity importance,XGBoost
+text__adds,0.0,,tree impurity importance,XGBoost
+text__administration,0.0,,tree impurity importance,XGBoost
+text__ads,0.0,,tree impurity importance,XGBoost
+text__advanced,0.0,,tree impurity importance,XGBoost
+text__advanced ai,0.0,,tree impurity importance,XGBoost
+text__advances,0.0,,tree impurity importance,XGBoost
+text__advertising,0.0,,tree impurity importance,XGBoost
+text__advice,0.0,,tree impurity importance,XGBoost
+text__advocates,0.0,,tree impurity importance,XGBoost
+text__affect,0.0,,tree impurity importance,XGBoost
+text__africa,0.0,,tree impurity importance,XGBoost
+text__age,0.0,,tree impurity importance,XGBoost
+text__age ai,0.0,,tree impurity importance,XGBoost
+text__ageing,0.0,,tree impurity importance,XGBoost
+text__address,0.0,,tree impurity importance,XGBoost
+text__add,0.0,,tree impurity importance,XGBoost
+text__adam,0.0,,tree impurity importance,XGBoost
+text__accurate,0.0,,tree impurity importance,XGBoost
+text__accelerate,0.0,,tree impurity importance,XGBoost
+text__accessible,0.0,,tree impurity importance,XGBoost
+text__according,0.0,,tree impurity importance,XGBoost
+text__account,0.0,,tree impurity importance,XGBoost
+text__accountability,0.0,,tree impurity importance,XGBoost
+text__accounts,0.0,,tree impurity importance,XGBoost
+text__accurately,0.0,,tree impurity importance,XGBoost
+text__ad,0.0,,tree impurity importance,XGBoost
+text__accused,0.0,,tree impurity importance,XGBoost
+text__accuses,0.0,,tree impurity importance,XGBoost
+text__act,0.0,,tree impurity importance,XGBoost
+text__action,0.0,,tree impurity importance,XGBoost
+text__activist,0.0,,tree impurity importance,XGBoost
+text__actually,0.0,,tree impurity importance,XGBoost
+text__ai voice,0.0,,tree impurity importance,XGBoost
+text__ai work,0.0,,tree impurity importance,XGBoost
+text__biggest,0.0,,tree impurity importance,XGBoost
+text__audience,0.0,,tree impurity importance,XGBoost
+text__audio,0.0,,tree impurity importance,XGBoost
+text__australian,0.0,,tree impurity importance,XGBoost
+text__author,0.0,,tree impurity importance,XGBoost
+text__authorities,0.0,,tree impurity importance,XGBoost
+text__authority,0.0,,tree impurity importance,XGBoost
+text__authors,0.0,,tree impurity importance,XGBoost
+text__automated,0.0,,tree impurity importance,XGBoost
+text__automation,0.0,,tree impurity importance,XGBoost
+text__autonomous,0.0,,tree impurity importance,XGBoost
+text__available,0.0,,tree impurity importance,XGBoost
+text__avatar,0.0,,tree impurity importance,XGBoost
+text__avatars,0.0,,tree impurity importance,XGBoost
+text__avoid,0.0,,tree impurity importance,XGBoost
+text__award,0.0,,tree impurity importance,XGBoost
+text__away,0.0,,tree impurity importance,XGBoost
+text__audiences,0.0,,tree impurity importance,XGBoost
+text__attention,0.0,,tree impurity importance,XGBoost
+text__baby,0.0,,tree impurity importance,XGBoost
+text__attempts,0.0,,tree impurity importance,XGBoost
+text__arwa,0.0,,tree impurity importance,XGBoost
+text__arwa mahdawi,0.0,,tree impurity importance,XGBoost
+text__ask,0.0,,tree impurity importance,XGBoost
+text__asked,0.0,,tree impurity importance,XGBoost
+text__asked chatgpt,0.0,,tree impurity importance,XGBoost
+text__asking,0.0,,tree impurity importance,XGBoost
+text__asks,0.0,,tree impurity importance,XGBoost
+text__assess,0.0,,tree impurity importance,XGBoost
+text__assessment,0.0,,tree impurity importance,XGBoost
+text__assessments,0.0,,tree impurity importance,XGBoost
+text__assistant,0.0,,tree impurity importance,XGBoost
+text__assistants,0.0,,tree impurity importance,XGBoost
+text__assisted,0.0,,tree impurity importance,XGBoost
+text__attacks,0.0,,tree impurity importance,XGBoost
+text__attempt,0.0,,tree impurity importance,XGBoost
+text__babies,0.0,,tree impurity importance,XGBoost
+text__backed,0.0,,tree impurity importance,XGBoost
+text__ai world,0.0,,tree impurity importance,XGBoost
+text__begin,0.0,,tree impurity importance,XGBoost
+text__beijing,0.0,,tree impurity importance,XGBoost
+text__beings,0.0,,tree impurity importance,XGBoost
+text__belief,0.0,,tree impurity importance,XGBoost
+text__believe,0.0,,tree impurity importance,XGBoost
+text__believes,0.0,,tree impurity importance,XGBoost
+text__ben,0.0,,tree impurity importance,XGBoost
+text__benefit,0.0,,tree impurity importance,XGBoost
+text__best,0.0,,tree impurity importance,XGBoost
+text__bet,0.0,,tree impurity importance,XGBoost
+text__bets,0.0,,tree impurity importance,XGBoost
+text__biases,0.0,,tree impurity importance,XGBoost
+text__bid,0.0,,tree impurity importance,XGBoost
+text__biden,0.0,,tree impurity importance,XGBoost
+text__big idea,0.0,,tree impurity importance,XGBoost
+text__bigger,0.0,,tree impurity importance,XGBoost
+text__behaviour,0.0,,tree impurity importance,XGBoost
+text__beauty,0.0,,tree impurity importance,XGBoost
+text__backlash,0.0,,tree impurity importance,XGBoost
+text__beats,0.0,,tree impurity importance,XGBoost
+text__bad,0.0,,tree impurity importance,XGBoost
+text__balance,0.0,,tree impurity importance,XGBoost
+text__band,0.0,,tree impurity importance,XGBoost
+text__bank,0.0,,tree impurity importance,XGBoost
+text__banks,0.0,,tree impurity importance,XGBoost
+text__banned,0.0,,tree impurity importance,XGBoost
+text__bans,0.0,,tree impurity importance,XGBoost
+text__bar,0.0,,tree impurity importance,XGBoost
+text__bard,0.0,,tree impurity importance,XGBoost
+text__based,0.0,,tree impurity importance,XGBoost
+text__basic,0.0,,tree impurity importance,XGBoost
+text__battle,0.0,,tree impurity importance,XGBoost
+text__bbc,0.0,,tree impurity importance,XGBoost
+text__beat,0.0,,tree impurity importance,XGBoost
+text__beatles,0.0,,tree impurity importance,XGBoost
+text__artwork,0.0,,tree impurity importance,XGBoost
+text__arts,0.0,,tree impurity importance,XGBoost
+text__artistic,0.0,,tree impurity importance,XGBoost
+text__allegedly used,0.0,,tree impurity importance,XGBoost
+text__allow,0.0,,tree impurity importance,XGBoost
+text__allowed,0.0,,tree impurity importance,XGBoost
+text__allowing,0.0,,tree impurity importance,XGBoost
+text__allows,0.0,,tree impurity importance,XGBoost
+text__alphabet,0.0,,tree impurity importance,XGBoost
+text__altered,0.0,,tree impurity importance,XGBoost
+text__alternative,0.0,,tree impurity importance,XGBoost
+text__amazon,0.0,,tree impurity importance,XGBoost
+text__amd,0.0,,tree impurity importance,XGBoost
+text__america,0.0,,tree impurity importance,XGBoost
+text__american,0.0,,tree impurity importance,XGBoost
+text__amid ai,0.0,,tree impurity importance,XGBoost
+text__amid fears,0.0,,tree impurity importance,XGBoost
+text__amounts,0.0,,tree impurity importance,XGBoost
+text__analyse,0.0,,tree impurity importance,XGBoost
+text__alleges,0.0,,tree impurity importance,XGBoost
+text__allegedly,0.0,,tree impurity importance,XGBoost
+text__artificial general,0.0,,tree impurity importance,XGBoost
+text__alleged,0.0,,tree impurity importance,XGBoost
+text__aid,0.0,,tree impurity importance,XGBoost
+text__aim,0.0,,tree impurity importance,XGBoost
+text__aimed,0.0,,tree impurity importance,XGBoost
+text__aims,0.0,,tree impurity importance,XGBoost
+text__air,0.0,,tree impurity importance,XGBoost
+text__ais,0.0,,tree impurity importance,XGBoost
+text__alan,0.0,,tree impurity importance,XGBoost
+text__alan turing,0.0,,tree impurity importance,XGBoost
+text__alarm,0.0,,tree impurity importance,XGBoost
+text__alex,0.0,,tree impurity importance,XGBoost
+text__alexander,0.0,,tree impurity importance,XGBoost
+text__algorithm,0.0,,tree impurity importance,XGBoost
+text__algorithmic,0.0,,tree impurity importance,XGBoost
+text__algorithms,0.0,,tree impurity importance,XGBoost
+text__allegations,0.0,,tree impurity importance,XGBoost
+text__analysis,0.0,,tree impurity importance,XGBoost
+text__analysts,0.0,,tree impurity importance,XGBoost
+text__ancient,0.0,,tree impurity importance,XGBoost
+text__andrew,0.0,,tree impurity importance,XGBoost
+text__appears,0.0,,tree impurity importance,XGBoost
+text__apple intelligence,0.0,,tree impurity importance,XGBoost
+text__applicants,0.0,,tree impurity importance,XGBoost
+text__applications,0.0,,tree impurity importance,XGBoost
+text__apply,0.0,,tree impurity importance,XGBoost
+text__approach,0.0,,tree impurity importance,XGBoost
+text__apps,0.0,,tree impurity importance,XGBoost
+text__areas,0.0,,tree impurity importance,XGBoost
+text__aren,0.0,,tree impurity importance,XGBoost
+text__argues,0.0,,tree impurity importance,XGBoost
+text__arm,0.0,,tree impurity importance,XGBoost
+text__arms,0.0,,tree impurity importance,XGBoost
+text__arms race,0.0,,tree impurity importance,XGBoost
+text__article,0.0,,tree impurity importance,XGBoost
+text__articles,0.0,,tree impurity importance,XGBoost
+text__appear,0.0,,tree impurity importance,XGBoost
+text__appeal,0.0,,tree impurity importance,XGBoost
+text__apocalypse,0.0,,tree impurity importance,XGBoost
+text__announces,0.0,,tree impurity importance,XGBoost
+text__android,0.0,,tree impurity importance,XGBoost
+text__anger,0.0,,tree impurity importance,XGBoost
+text__angry,0.0,,tree impurity importance,XGBoost
+text__animal,0.0,,tree impurity importance,XGBoost
+text__announce,0.0,,tree impurity importance,XGBoost
+text__announced,0.0,,tree impurity importance,XGBoost
+text__annual,0.0,,tree impurity importance,XGBoost
+text__anxiety,0.0,,tree impurity importance,XGBoost
+text__answer,0.0,,tree impurity importance,XGBoost
+text__answers,0.0,,tree impurity importance,XGBoost
+text__anthropic,0.0,,tree impurity importance,XGBoost
+text__anti,0.0,,tree impurity importance,XGBoost
+text__antisemitic,0.0,,tree impurity importance,XGBoost
+text__antitrust,0.0,,tree impurity importance,XGBoost
+text__declaration,0.0,,tree impurity importance,XGBoost
+text__deep,0.0,,tree impurity importance,XGBoost
+text__lives,0.0,,tree impurity importance,XGBoost
+text__head,0.0,,tree impurity importance,XGBoost
+text__hear people,0.0,,tree impurity importance,XGBoost
+text__held,0.0,,tree impurity importance,XGBoost
+text__helped,0.0,,tree impurity importance,XGBoost
+text__helping,0.0,,tree impurity importance,XGBoost
+text__helps,0.0,,tree impurity importance,XGBoost
+text__hi,0.0,,tree impurity importance,XGBoost
+text__hidden,0.0,,tree impurity importance,XGBoost
+text__high risk,0.0,,tree impurity importance,XGBoost
+text__higher,0.0,,tree impurity importance,XGBoost
+text__highlight,0.0,,tree impurity importance,XGBoost
+text__highlights,0.0,,tree impurity importance,XGBoost
+text__highly,0.0,,tree impurity importance,XGBoost
+text__highs,0.0,,tree impurity importance,XGBoost
+text__hinsliff,0.0,,tree impurity importance,XGBoost
+text__hinton,0.0,,tree impurity importance,XGBoost
+text__healthcare,0.0,,tree impurity importance,XGBoost
+text__having,0.0,,tree impurity importance,XGBoost
+text__historical,0.0,,tree impurity importance,XGBoost
+text__hate,0.0,,tree impurity importance,XGBoost
+text__halt,0.0,,tree impurity importance,XGBoost
+text__hand,0.0,,tree impurity importance,XGBoost
+text__handle,0.0,,tree impurity importance,XGBoost
+text__hands,0.0,,tree impurity importance,XGBoost
+text__hanks,0.0,,tree impurity importance,XGBoost
+text__happened,0.0,,tree impurity importance,XGBoost
+text__happens,0.0,,tree impurity importance,XGBoost
+text__hard,0.0,,tree impurity importance,XGBoost
+text__harder,0.0,,tree impurity importance,XGBoost
+text__harm,0.0,,tree impurity importance,XGBoost
+text__harmful,0.0,,tree impurity importance,XGBoost
+text__harness,0.0,,tree impurity importance,XGBoost
+text__harris,0.0,,tree impurity importance,XGBoost
+text__harry,0.0,,tree impurity importance,XGBoost
+text__hassabis,0.0,,tree impurity importance,XGBoost
+text__hiring,0.0,,tree impurity importance,XGBoost
+text__hit,0.0,,tree impurity importance,XGBoost
+text__inaccurate,0.0,,tree impurity importance,XGBoost
+text__hype,0.0,,tree impurity importance,XGBoost
+text__ideas,0.0,,tree impurity importance,XGBoost
+text__identified,0.0,,tree impurity importance,XGBoost
+text__identify,0.0,,tree impurity importance,XGBoost
+text__idf,0.0,,tree impurity importance,XGBoost
+text__ignore,0.0,,tree impurity importance,XGBoost
+text__ill,0.0,,tree impurity importance,XGBoost
+text__illegal,0.0,,tree impurity importance,XGBoost
+text__image,0.0,,tree impurity importance,XGBoost
+text__images,0.0,,tree impurity importance,XGBoost
+text__imagine,0.0,,tree impurity importance,XGBoost
+text__impact,0.0,,tree impurity importance,XGBoost
+text__impact ai,0.0,,tree impurity importance,XGBoost
+text__implications,0.0,,tree impurity importance,XGBoost
+text__important,0.0,,tree impurity importance,XGBoost
+text__improve,0.0,,tree impurity importance,XGBoost
+text__idea,0.0,,tree impurity importance,XGBoost
+text__hungry,0.0,,tree impurity importance,XGBoost
+text__hits,0.0,,tree impurity importance,XGBoost
+text__hundreds,0.0,,tree impurity importance,XGBoost
+text__hold,0.0,,tree impurity importance,XGBoost
+text__home,0.0,,tree impurity importance,XGBoost
+text__hope,0.0,,tree impurity importance,XGBoost
+text__horror,0.0,,tree impurity importance,XGBoost
+text__hospital,0.0,,tree impurity importance,XGBoost
+text__host,0.0,,tree impurity importance,XGBoost
+text__hot,0.0,,tree impurity importance,XGBoost
+text__hour,0.0,,tree impurity importance,XGBoost
+text__hours,0.0,,tree impurity importance,XGBoost
+text__house,0.0,,tree impurity importance,XGBoost
+text__huge,0.0,,tree impurity importance,XGBoost
+text__hugely,0.0,,tree impurity importance,XGBoost
+text__human rights,0.0,,tree impurity importance,XGBoost
+text__humanity,0.0,,tree impurity importance,XGBoost
+text__humanoid,0.0,,tree impurity importance,XGBoost
+text__half,0.0,,tree impurity importance,XGBoost
+text__gun,0.0,,tree impurity importance,XGBoost
+text__guidelines,0.0,,tree impurity importance,XGBoost
+text__generating,0.0,,tree impurity importance,XGBoost
+text__generative,0.0,,tree impurity importance,XGBoost
+text__generative ai,0.0,,tree impurity importance,XGBoost
+text__generator,0.0,,tree impurity importance,XGBoost
+text__generators,0.0,,tree impurity importance,XGBoost
+text__genuine,0.0,,tree impurity importance,XGBoost
+text__geoffrey,0.0,,tree impurity importance,XGBoost
+text__geoffrey hinton,0.0,,tree impurity importance,XGBoost
+text__george,0.0,,tree impurity importance,XGBoost
+text__german,0.0,,tree impurity importance,XGBoost
+text__gets,0.0,,tree impurity importance,XGBoost
+text__getting,0.0,,tree impurity importance,XGBoost
+text__giant,0.0,,tree impurity importance,XGBoost
+text__giants,0.0,,tree impurity importance,XGBoost
+text__gift,0.0,,tree impurity importance,XGBoost
+text__girls,0.0,,tree impurity importance,XGBoost
+text__generation,0.0,,tree impurity importance,XGBoost
+text__generated image,0.0,,tree impurity importance,XGBoost
+text__guide,0.0,,tree impurity importance,XGBoost
+text__generated content,0.0,,tree impurity importance,XGBoost
+text__gallery,0.0,,tree impurity importance,XGBoost
+text__gamble,0.0,,tree impurity importance,XGBoost
+text__gamechanger,0.0,,tree impurity importance,XGBoost
+text__games,0.0,,tree impurity importance,XGBoost
+text__gap,0.0,,tree impurity importance,XGBoost
+text__gas,0.0,,tree impurity importance,XGBoost
+text__gates,0.0,,tree impurity importance,XGBoost
+text__gave,0.0,,tree impurity importance,XGBoost
+text__gaza,0.0,,tree impurity importance,XGBoost
+text__gemini,0.0,,tree impurity importance,XGBoost
+text__gen,0.0,,tree impurity importance,XGBoost
+text__general,0.0,,tree impurity importance,XGBoost
+text__general intelligence,0.0,,tree impurity importance,XGBoost
+text__generate,0.0,,tree impurity importance,XGBoost
+text__generated ai,0.0,,tree impurity importance,XGBoost
+text__given,0.0,,tree impurity importance,XGBoost
+text__gives,0.0,,tree impurity importance,XGBoost
+text__giving,0.0,,tree impurity importance,XGBoost
+text__global ai,0.0,,tree impurity importance,XGBoost
+text__graduate,0.0,,tree impurity importance,XGBoost
+text__graduates,0.0,,tree impurity importance,XGBoost
+text__grant,0.0,,tree impurity importance,XGBoost
+text__great,0.0,,tree impurity importance,XGBoost
+text__greater,0.0,,tree impurity importance,XGBoost
+text__grok ai,0.0,,tree impurity importance,XGBoost
+text__grok chatbot,0.0,,tree impurity importance,XGBoost
+text__group,0.0,,tree impurity importance,XGBoost
+text__groups,0.0,,tree impurity importance,XGBoost
+text__grow,0.0,,tree impurity importance,XGBoost
+text__grows,0.0,,tree impurity importance,XGBoost
+text__growth,0.0,,tree impurity importance,XGBoost
+text__guard,0.0,,tree impurity importance,XGBoost
+text__guardian columnist,0.0,,tree impurity importance,XGBoost
+text__guardian view,0.0,,tree impurity importance,XGBoost
+text__gpt 4o,0.0,,tree impurity importance,XGBoost
+text__gpt,0.0,,tree impurity importance,XGBoost
+text__governments,0.0,,tree impurity importance,XGBoost
+text__gold,0.0,,tree impurity importance,XGBoost
+text__global economy,0.0,,tree impurity importance,XGBoost
+text__god,0.0,,tree impurity importance,XGBoost
+text__godfather,0.0,,tree impurity importance,XGBoost
+text__godfather ai,0.0,,tree impurity importance,XGBoost
+text__goes,0.0,,tree impurity importance,XGBoost
+text__going,0.0,,tree impurity importance,XGBoost
+text__gone,0.0,,tree impurity importance,XGBoost
+text__government says,0.0,,tree impurity importance,XGBoost
+text__good,0.0,,tree impurity importance,XGBoost
+text__google ai,0.0,,tree impurity importance,XGBoost
+text__google bard,0.0,,tree impurity importance,XGBoost
+text__google microsoft,0.0,,tree impurity importance,XGBoost
+text__got,0.0,,tree impurity importance,XGBoost
+text__government ai,0.0,,tree impurity importance,XGBoost
+text__improving,0.0,,tree impurity importance,XGBoost
+text__include,0.0,,tree impurity importance,XGBoost
+text__gains,0.0,,tree impurity importance,XGBoost
+text__large language,0.0,,tree impurity importance,XGBoost
+text__late,0.0,,tree impurity importance,XGBoost
+text__launch,0.0,,tree impurity importance,XGBoost
+text__launch ai,0.0,,tree impurity importance,XGBoost
+text__launched,0.0,,tree impurity importance,XGBoost
+text__launches,0.0,,tree impurity importance,XGBoost
+text__launches ai,0.0,,tree impurity importance,XGBoost
+text__law,0.0,,tree impurity importance,XGBoost
+text__laws,0.0,,tree impurity importance,XGBoost
+text__lawsuit,0.0,,tree impurity importance,XGBoost
+text__lawsuits,0.0,,tree impurity importance,XGBoost
+text__lawyer,0.0,,tree impurity importance,XGBoost
+text__lawyers,0.0,,tree impurity importance,XGBoost
+text__lead,0.0,,tree impurity importance,XGBoost
+text__leader,0.0,,tree impurity importance,XGBoost
+text__leaders,0.0,,tree impurity importance,XGBoost
+text__10,0.0,,tree impurity importance,XGBoost
+text__large,0.0,,tree impurity importance,XGBoost
+text__leading,0.0,,tree impurity importance,XGBoost
+text__language models,0.0,,tree impurity importance,XGBoost
+text__killed,0.0,,tree impurity importance,XGBoost
+text__killer,0.0,,tree impurity importance,XGBoost
+text__kind,0.0,,tree impurity importance,XGBoost
+text__king,0.0,,tree impurity importance,XGBoost
+text__know,0.0,,tree impurity importance,XGBoost
+text__knowledge,0.0,,tree impurity importance,XGBoost
+text__known,0.0,,tree impurity importance,XGBoost
+text__korea,0.0,,tree impurity importance,XGBoost
+text__kyle,0.0,,tree impurity importance,XGBoost
+text__label,0.0,,tree impurity importance,XGBoost
+text__labor,0.0,,tree impurity importance,XGBoost
+text__lack,0.0,,tree impurity importance,XGBoost
+text__landmark,0.0,,tree impurity importance,XGBoost
+text__language,0.0,,tree impurity importance,XGBoost
+text__language model,0.0,,tree impurity importance,XGBoost
+text__leadership,0.0,,tree impurity importance,XGBoost
+text__league,0.0,,tree impurity importance,XGBoost
+text__income,0.0,,tree impurity importance,XGBoost
+text__lies,0.0,,tree impurity importance,XGBoost
+text__light,0.0,,tree impurity importance,XGBoost
+text__like hear,0.0,,tree impurity importance,XGBoost
+text__likely,0.0,,tree impurity importance,XGBoost
+text__limit,0.0,,tree impurity importance,XGBoost
+text__limitations,0.0,,tree impurity importance,XGBoost
+text__limited,0.0,,tree impurity importance,XGBoost
+text__limits,0.0,,tree impurity importance,XGBoost
+text__line,0.0,,tree impurity importance,XGBoost
+text__lines,0.0,,tree impurity importance,XGBoost
+text__list,0.0,,tree impurity importance,XGBoost
+text__listen,0.0,,tree impurity importance,XGBoost
+text__lists,0.0,,tree impurity importance,XGBoost
+text__literature,0.0,,tree impurity importance,XGBoost
+text__little,0.0,,tree impurity importance,XGBoost
+text__live,0.0,,tree impurity importance,XGBoost
+text__life,0.0,,tree impurity importance,XGBoost
+text__licensing,0.0,,tree impurity importance,XGBoost
+text__leap,0.0,,tree impurity importance,XGBoost
+text__library,0.0,,tree impurity importance,XGBoost
+text__learn,0.0,,tree impurity importance,XGBoost
+text__learned,0.0,,tree impurity importance,XGBoost
+text__learning,0.0,,tree impurity importance,XGBoost
+text__leave,0.0,,tree impurity importance,XGBoost
+text__leaving,0.0,,tree impurity importance,XGBoost
+text__lecturers,0.0,,tree impurity importance,XGBoost
+text__led,0.0,,tree impurity importance,XGBoost
+text__left,0.0,,tree impurity importance,XGBoost
+text__legal,0.0,,tree impurity importance,XGBoost
+text__legislation,0.0,,tree impurity importance,XGBoost
+text__let,0.0,,tree impurity importance,XGBoost
+text__let ai,0.0,,tree impurity importance,XGBoost
+text__letters readers,0.0,,tree impurity importance,XGBoost
+text__level,0.0,,tree impurity importance,XGBoost
+text__levels,0.0,,tree impurity importance,XGBoost
+text__kill,0.0,,tree impurity importance,XGBoost
+text__kids,0.0,,tree impurity importance,XGBoost
+text__key,0.0,,tree impurity importance,XGBoost
+text__innovation,0.0,,tree impurity importance,XGBoost
+text__inquiry,0.0,,tree impurity importance,XGBoost
+text__inside,0.0,,tree impurity importance,XGBoost
+text__insights,0.0,,tree impurity importance,XGBoost
+text__inspired,0.0,,tree impurity importance,XGBoost
+text__instagram,0.0,,tree impurity importance,XGBoost
+text__installation,0.0,,tree impurity importance,XGBoost
+text__instead,0.0,,tree impurity importance,XGBoost
+text__institute,0.0,,tree impurity importance,XGBoost
+text__intelligent,0.0,,tree impurity importance,XGBoost
+text__interests,0.0,,tree impurity importance,XGBoost
+text__international,0.0,,tree impurity importance,XGBoost
+text__internet watch,0.0,,tree impurity importance,XGBoost
+text__interviews,0.0,,tree impurity importance,XGBoost
+text__invest,0.0,,tree impurity importance,XGBoost
+text__investigate,0.0,,tree impurity importance,XGBoost
+text__innovations,0.0,,tree impurity importance,XGBoost
+text__infringement,0.0,,tree impurity importance,XGBoost
+text__keir starmer,0.0,,tree impurity importance,XGBoost
+text__infrastructure,0.0,,tree impurity importance,XGBoost
+text__increase,0.0,,tree impurity importance,XGBoost
+text__increased,0.0,,tree impurity importance,XGBoost
+text__increases,0.0,,tree impurity importance,XGBoost
+text__increasing,0.0,,tree impurity importance,XGBoost
+text__increasingly,0.0,,tree impurity importance,XGBoost
+text__india,0.0,,tree impurity importance,XGBoost
+text__indicates,0.0,,tree impurity importance,XGBoost
+text__industrial,0.0,,tree impurity importance,XGBoost
+text__industries,0.0,,tree impurity importance,XGBoost
+text__inequality,0.0,,tree impurity importance,XGBoost
+text__inevitable,0.0,,tree impurity importance,XGBoost
+text__inflated,0.0,,tree impurity importance,XGBoost
+text__inflation,0.0,,tree impurity importance,XGBoost
+text__influence,0.0,,tree impurity importance,XGBoost
+text__information,0.0,,tree impurity importance,XGBoost
+text__investigating,0.0,,tree impurity importance,XGBoost
+text__investigation,0.0,,tree impurity importance,XGBoost
+text__investment,0.0,,tree impurity importance,XGBoost
+text__investments,0.0,,tree impurity importance,XGBoost
+text__johnson,0.0,,tree impurity importance,XGBoost
+text__join,0.0,,tree impurity importance,XGBoost
+text__joins,0.0,,tree impurity importance,XGBoost
+text__jones,0.0,,tree impurity importance,XGBoost
+text__journalism,0.0,,tree impurity importance,XGBoost
+text__journalist,0.0,,tree impurity importance,XGBoost
+text__journalists,0.0,,tree impurity importance,XGBoost
+text__joy,0.0,,tree impurity importance,XGBoost
+text__judge,0.0,,tree impurity importance,XGBoost
+text__judges,0.0,,tree impurity importance,XGBoost
+text__junior,0.0,,tree impurity importance,XGBoost
+text__justice,0.0,,tree impurity importance,XGBoost
+text__kate,0.0,,tree impurity importance,XGBoost
+text__kate bush,0.0,,tree impurity importance,XGBoost
+text__keeping,0.0,,tree impurity importance,XGBoost
+text__john,0.0,,tree impurity importance,XGBoost
+text__johansson,0.0,,tree impurity importance,XGBoost
+text__joe biden,0.0,,tree impurity importance,XGBoost
+text__israeli,0.0,,tree impurity importance,XGBoost
+text__investor,0.0,,tree impurity importance,XGBoost
+text__investors,0.0,,tree impurity importance,XGBoost
+text__iphone,0.0,,tree impurity importance,XGBoost
+text__iran,0.0,,tree impurity importance,XGBoost
+text__irish,0.0,,tree impurity importance,XGBoost
+text__israel,0.0,,tree impurity importance,XGBoost
+text__issue,0.0,,tree impurity importance,XGBoost
+text__joe,0.0,,tree impurity importance,XGBoost
+text__issues,0.0,,tree impurity importance,XGBoost
+text__italian,0.0,,tree impurity importance,XGBoost
+text__james,0.0,,tree impurity importance,XGBoost
+text__japan,0.0,,tree impurity importance,XGBoost
+text__job,0.0,,tree impurity importance,XGBoost
+text__jobs risk,0.0,,tree impurity importance,XGBoost
+text__galaxy,0.0,,tree impurity importance,XGBoost
+text__gaby hinsliff,0.0,,tree impurity importance,XGBoost
+text__deepfake,0.0,,tree impurity importance,XGBoost
+text__drop,0.0,,tree impurity importance,XGBoost
+text__drugs,0.0,,tree impurity importance,XGBoost
+text__dystopian,0.0,,tree impurity importance,XGBoost
+text__early,0.0,,tree impurity importance,XGBoost
+text__earnings,0.0,,tree impurity importance,XGBoost
+text__earth,0.0,,tree impurity importance,XGBoost
+text__easier,0.0,,tree impurity importance,XGBoost
+text__easily,0.0,,tree impurity importance,XGBoost
+text__east,0.0,,tree impurity importance,XGBoost
+text__easy,0.0,,tree impurity importance,XGBoost
+text__economic forum,0.0,,tree impurity importance,XGBoost
+text__economy,0.0,,tree impurity importance,XGBoost
+text__ed,0.0,,tree impurity importance,XGBoost
+text__edge,0.0,,tree impurity importance,XGBoost
+text__editing,0.0,,tree impurity importance,XGBoost
+text__editor,0.0,,tree impurity importance,XGBoost
+text__drug,0.0,,tree impurity importance,XGBoost
+text__drones,0.0,,tree impurity importance,XGBoost
+text__education,0.0,,tree impurity importance,XGBoost
+text__drone,0.0,,tree impurity importance,XGBoost
+text__donald trump,0.0,,tree impurity importance,XGBoost
+text__doomed,0.0,,tree impurity importance,XGBoost
+text__doomsday,0.0,,tree impurity importance,XGBoost
+text__double,0.0,,tree impurity importance,XGBoost
+text__doubt,0.0,,tree impurity importance,XGBoost
+text__doubts,0.0,,tree impurity importance,XGBoost
+text__dr,0.0,,tree impurity importance,XGBoost
+text__drama,0.0,,tree impurity importance,XGBoost
+text__draw,0.0,,tree impurity importance,XGBoost
+text__dream,0.0,,tree impurity importance,XGBoost
+text__drive,0.0,,tree impurity importance,XGBoost
+text__driven,0.0,,tree impurity importance,XGBoost
+text__drivers,0.0,,tree impurity importance,XGBoost
+text__drives,0.0,,tree impurity importance,XGBoost
+text__driving,0.0,,tree impurity importance,XGBoost
+text__editorial,0.0,,tree impurity importance,XGBoost
+text__effect,0.0,,tree impurity importance,XGBoost
+text__era,0.0,,tree impurity importance,XGBoost
+text__ends,0.0,,tree impurity importance,XGBoost
+text__energy hungry,0.0,,tree impurity importance,XGBoost
+text__energy use,0.0,,tree impurity importance,XGBoost
+text__engine,0.0,,tree impurity importance,XGBoost
+text__engineer,0.0,,tree impurity importance,XGBoost
+text__engineering,0.0,,tree impurity importance,XGBoost
+text__england,0.0,,tree impurity importance,XGBoost
+text__english,0.0,,tree impurity importance,XGBoost
+text__enhance,0.0,,tree impurity importance,XGBoost
+text__enhanced,0.0,,tree impurity importance,XGBoost
+text__ensure,0.0,,tree impurity importance,XGBoost
+text__entertainment,0.0,,tree impurity importance,XGBoost
+text__entry,0.0,,tree impurity importance,XGBoost
+text__entry level,0.0,,tree impurity importance,XGBoost
+text__environment,0.0,,tree impurity importance,XGBoost
+text__environmental,0.0,,tree impurity importance,XGBoost
+text__energy,0.0,,tree impurity importance,XGBoost
+text__end,0.0,,tree impurity importance,XGBoost
+text__effective,0.0,,tree impurity importance,XGBoost
+text__encouraged,0.0,,tree impurity importance,XGBoost
+text__effects,0.0,,tree impurity importance,XGBoost
+text__efficiency,0.0,,tree impurity importance,XGBoost
+text__effort,0.0,,tree impurity importance,XGBoost
+text__efforts,0.0,,tree impurity importance,XGBoost
+text__elections,0.0,,tree impurity importance,XGBoost
+text__electoral,0.0,,tree impurity importance,XGBoost
+text__electricity,0.0,,tree impurity importance,XGBoost
+text__emails,0.0,,tree impurity importance,XGBoost
+text__embracing,0.0,,tree impurity importance,XGBoost
+text__emerging,0.0,,tree impurity importance,XGBoost
+text__emily,0.0,,tree impurity importance,XGBoost
+text__emotional,0.0,,tree impurity importance,XGBoost
+text__employees,0.0,,tree impurity importance,XGBoost
+text__employers,0.0,,tree impurity importance,XGBoost
+text__enabled,0.0,,tree impurity importance,XGBoost
+text__donald,0.0,,tree impurity importance,XGBoost
+text__don,0.0,,tree impurity importance,XGBoost
+text__dominate,0.0,,tree impurity importance,XGBoost
+text__democrats,0.0,,tree impurity importance,XGBoost
+text__design,0.0,,tree impurity importance,XGBoost
+text__designed,0.0,,tree impurity importance,XGBoost
+text__designer,0.0,,tree impurity importance,XGBoost
+text__despite,0.0,,tree impurity importance,XGBoost
+text__destroy,0.0,,tree impurity importance,XGBoost
+text__detect,0.0,,tree impurity importance,XGBoost
+text__detection,0.0,,tree impurity importance,XGBoost
+text__devastating,0.0,,tree impurity importance,XGBoost
+text__develop,0.0,,tree impurity importance,XGBoost
+text__developed,0.0,,tree impurity importance,XGBoost
+text__developer,0.0,,tree impurity importance,XGBoost
+text__developers,0.0,,tree impurity importance,XGBoost
+text__developments,0.0,,tree impurity importance,XGBoost
+text__devices,0.0,,tree impurity importance,XGBoost
+text__dictionary,0.0,,tree impurity importance,XGBoost
+text__deployed,0.0,,tree impurity importance,XGBoost
+text__democratic,0.0,,tree impurity importance,XGBoost
+text__dominance,0.0,,tree impurity importance,XGBoost
+text__democracy,0.0,,tree impurity importance,XGBoost
+text__deepfake porn,0.0,,tree impurity importance,XGBoost
+text__deepfake video,0.0,,tree impurity importance,XGBoost
+text__deepfake videos,0.0,,tree impurity importance,XGBoost
+text__deeply,0.0,,tree impurity importance,XGBoost
+text__deepmind,0.0,,tree impurity importance,XGBoost
+text__deepseek ai,0.0,,tree impurity importance,XGBoost
+text__defence,0.0,,tree impurity importance,XGBoost
+text__defends,0.0,,tree impurity importance,XGBoost
+text__delays,0.0,,tree impurity importance,XGBoost
+text__demand,0.0,,tree impurity importance,XGBoost
+text__demand ai,0.0,,tree impurity importance,XGBoost
+text__demanding,0.0,,tree impurity importance,XGBoost
+text__demis,0.0,,tree impurity importance,XGBoost
+text__demis hassabis,0.0,,tree impurity importance,XGBoost
+text__demo,0.0,,tree impurity importance,XGBoost
+text__did,0.0,,tree impurity importance,XGBoost
+text__didn,0.0,,tree impurity importance,XGBoost
+text__difference,0.0,,tree impurity importance,XGBoost
+text__different,0.0,,tree impurity importance,XGBoost
+text__distress,0.0,,tree impurity importance,XGBoost
+text__disturbing,0.0,,tree impurity importance,XGBoost
+text__diversity,0.0,,tree impurity importance,XGBoost
+text__division,0.0,,tree impurity importance,XGBoost
+text__doctor,0.0,,tree impurity importance,XGBoost
+text__doctors,0.0,,tree impurity importance,XGBoost
+text__document,0.0,,tree impurity importance,XGBoost
+text__documentary,0.0,,tree impurity importance,XGBoost
+text__documents,0.0,,tree impurity importance,XGBoost
+text__doesn,0.0,,tree impurity importance,XGBoost
+text__doge,0.0,,tree impurity importance,XGBoost
+text__doing,0.0,,tree impurity importance,XGBoost
+text__dollar,0.0,,tree impurity importance,XGBoost
+text__domestic,0.0,,tree impurity importance,XGBoost
+text__domestic violence,0.0,,tree impurity importance,XGBoost
+text__disruption,0.0,,tree impurity importance,XGBoost
+text__disrupt,0.0,,tree impurity importance,XGBoost
+text__display,0.0,,tree impurity importance,XGBoost
+text__discovered,0.0,,tree impurity importance,XGBoost
+text__digital,0.0,,tree impurity importance,XGBoost
+text__digitally,0.0,,tree impurity importance,XGBoost
+text__direct,0.0,,tree impurity importance,XGBoost
+text__director,0.0,,tree impurity importance,XGBoost
+text__disaster,0.0,,tree impurity importance,XGBoost
+text__discover,0.0,,tree impurity importance,XGBoost
+text__discovering,0.0,,tree impurity importance,XGBoost
+text__disney,0.0,,tree impurity importance,XGBoost
+text__discovery,0.0,,tree impurity importance,XGBoost
+text__discrimination,0.0,,tree impurity importance,XGBoost
+text__discuss,0.0,,tree impurity importance,XGBoost
+text__discusses,0.0,,tree impurity importance,XGBoost
+text__disease,0.0,,tree impurity importance,XGBoost
+text__disinformation,0.0,,tree impurity importance,XGBoost
+text__epic,0.0,,tree impurity importance,XGBoost
+text__errors,0.0,,tree impurity importance,XGBoost
+text__gaby,0.0,,tree impurity importance,XGBoost
+text__films,0.0,,tree impurity importance,XGBoost
+text__finally,0.0,,tree impurity importance,XGBoost
+text__finance,0.0,,tree impurity importance,XGBoost
+text__financial,0.0,,tree impurity importance,XGBoost
+text__finding,0.0,,tree impurity importance,XGBoost
+text__fine,0.0,,tree impurity importance,XGBoost
+text__fined,0.0,,tree impurity importance,XGBoost
+text__fired,0.0,,tree impurity importance,XGBoost
+text__fires,0.0,,tree impurity importance,XGBoost
+text__firing,0.0,,tree impurity importance,XGBoost
+text__firms use,0.0,,tree impurity importance,XGBoost
+text__fix,0.0,,tree impurity importance,XGBoost
+text__flags,0.0,,tree impurity importance,XGBoost
+text__focus,0.0,,tree impurity importance,XGBoost
+text__following,0.0,,tree impurity importance,XGBoost
+text__follows,0.0,,tree impurity importance,XGBoost
+text__final,0.0,,tree impurity importance,XGBoost
+text__film tv,0.0,,tree impurity importance,XGBoost
+text__fool,0.0,,tree impurity importance,XGBoost
+text__film making,0.0,,tree impurity importance,XGBoost
+text__feelings,0.0,,tree impurity importance,XGBoost
+text__felt,0.0,,tree impurity importance,XGBoost
+text__female,0.0,,tree impurity importance,XGBoost
+text__festival,0.0,,tree impurity importance,XGBoost
+text__fewer,0.0,,tree impurity importance,XGBoost
+text__fi,0.0,,tree impurity importance,XGBoost
+text__fiction,0.0,,tree impurity importance,XGBoost
+text__field,0.0,,tree impurity importance,XGBoost
+text__fifth,0.0,,tree impurity importance,XGBoost
+text__fight,0.0,,tree impurity importance,XGBoost
+text__fighting,0.0,,tree impurity importance,XGBoost
+text__figures,0.0,,tree impurity importance,XGBoost
+text__filing,0.0,,tree impurity importance,XGBoost
+text__film,0.0,,tree impurity importance,XGBoost
+text__film makers,0.0,,tree impurity importance,XGBoost
+text__food,0.0,,tree impurity importance,XGBoost
+text__footage,0.0,,tree impurity importance,XGBoost
+text__essays,0.0,,tree impurity importance,XGBoost
+text__free,0.0,,tree impurity importance,XGBoost
+text__french,0.0,,tree impurity importance,XGBoost
+text__fresh,0.0,,tree impurity importance,XGBoost
+text__friday,0.0,,tree impurity importance,XGBoost
+text__friend,0.0,,tree impurity importance,XGBoost
+text__friends,0.0,,tree impurity importance,XGBoost
+text__frontier,0.0,,tree impurity importance,XGBoost
+text__fuel,0.0,,tree impurity importance,XGBoost
+text__fully,0.0,,tree impurity importance,XGBoost
+text__fun,0.0,,tree impurity importance,XGBoost
+text__fund,0.0,,tree impurity importance,XGBoost
+text__funding,0.0,,tree impurity importance,XGBoost
+text__funds,0.0,,tree impurity importance,XGBoost
+text__furious,0.0,,tree impurity importance,XGBoost
+text__future,0.0,,tree impurity importance,XGBoost
+text__future ai,0.0,,tree impurity importance,XGBoost
+text__freedom,0.0,,tree impurity importance,XGBoost
+text__fraudsters,0.0,,tree impurity importance,XGBoost
+text__football,0.0,,tree impurity importance,XGBoost
+text__fraud,0.0,,tree impurity importance,XGBoost
+text__force,0.0,,tree impurity importance,XGBoost
+text__force good,0.0,,tree impurity importance,XGBoost
+text__forced,0.0,,tree impurity importance,XGBoost
+text__forces,0.0,,tree impurity importance,XGBoost
+text__forecast,0.0,,tree impurity importance,XGBoost
+text__forecasting,0.0,,tree impurity importance,XGBoost
+text__foreign,0.0,,tree impurity importance,XGBoost
+text__form,0.0,,tree impurity importance,XGBoost
+text__forum,0.0,,tree impurity importance,XGBoost
+text__forward,0.0,,tree impurity importance,XGBoost
+text__foundation,0.0,,tree impurity importance,XGBoost
+text__founded,0.0,,tree impurity importance,XGBoost
+text__founder,0.0,,tree impurity importance,XGBoost
+text__framework,0.0,,tree impurity importance,XGBoost
+text__france,0.0,,tree impurity importance,XGBoost
+text__feel,0.0,,tree impurity importance,XGBoost
+text__feed,0.0,,tree impurity importance,XGBoost
+text__federal,0.0,,tree impurity importance,XGBoost
+text__expect,0.0,,tree impurity importance,XGBoost
+text__expected,0.0,,tree impurity importance,XGBoost
+text__expensive,0.0,,tree impurity importance,XGBoost
+text__experience,0.0,,tree impurity importance,XGBoost
+text__experiences,0.0,,tree impurity importance,XGBoost
+text__experiment,0.0,,tree impurity importance,XGBoost
+text__experts say,0.0,,tree impurity importance,XGBoost
+text__explain,0.0,,tree impurity importance,XGBoost
+text__explains,0.0,,tree impurity importance,XGBoost
+text__exploit,0.0,,tree impurity importance,XGBoost
+text__explores,0.0,,tree impurity importance,XGBoost
+text__exploring,0.0,,tree impurity importance,XGBoost
+text__explosion,0.0,,tree impurity importance,XGBoost
+text__exposed,0.0,,tree impurity importance,XGBoost
+text__express,0.0,,tree impurity importance,XGBoost
+text__extinction,0.0,,tree impurity importance,XGBoost
+text__expectations,0.0,,tree impurity importance,XGBoost
+text__existing,0.0,,tree impurity importance,XGBoost
+text__fed,0.0,,tree impurity importance,XGBoost
+text__existential threat,0.0,,tree impurity importance,XGBoost
+text__estate,0.0,,tree impurity importance,XGBoost
+text__ethical,0.0,,tree impurity importance,XGBoost
+text__ethics,0.0,,tree impurity importance,XGBoost
+text__europe,0.0,,tree impurity importance,XGBoost
+text__european,0.0,,tree impurity importance,XGBoost
+text__event,0.0,,tree impurity importance,XGBoost
+text__evidence,0.0,,tree impurity importance,XGBoost
+text__evolution,0.0,,tree impurity importance,XGBoost
+text__ex,0.0,,tree impurity importance,XGBoost
+text__examine,0.0,,tree impurity importance,XGBoost
+text__executive,0.0,,tree impurity importance,XGBoost
+text__executives,0.0,,tree impurity importance,XGBoost
+text__exhibition,0.0,,tree impurity importance,XGBoost
+text__exist,0.0,,tree impurity importance,XGBoost
+text__existential,0.0,,tree impurity importance,XGBoost
+text__extra,0.0,,tree impurity importance,XGBoost
+text__extraordinary,0.0,,tree impurity importance,XGBoost
+text__eye,0.0,,tree impurity importance,XGBoost
+text__eyes,0.0,,tree impurity importance,XGBoost
+text__famous,0.0,,tree impurity importance,XGBoost
+text__fans,0.0,,tree impurity importance,XGBoost
+text__fantasy,0.0,,tree impurity importance,XGBoost
+text__far,0.0,,tree impurity importance,XGBoost
+text__far right,0.0,,tree impurity importance,XGBoost
+text__fashion,0.0,,tree impurity importance,XGBoost
+text__fast,0.0,,tree impurity importance,XGBoost
+text__fast food,0.0,,tree impurity importance,XGBoost
+text__faster,0.0,,tree impurity importance,XGBoost
+text__favourite,0.0,,tree impurity importance,XGBoost
+text__fear,0.0,,tree impurity importance,XGBoost
+text__fears ai,0.0,,tree impurity importance,XGBoost
+text__feature,0.0,,tree impurity importance,XGBoost
+text__features,0.0,,tree impurity importance,XGBoost
+text__featuring,0.0,,tree impurity importance,XGBoost
+text__family,0.0,,tree impurity importance,XGBoost
+text__falsely,0.0,,tree impurity importance,XGBoost
+text__false,0.0,,tree impurity importance,XGBoost
+text__fail,0.0,,tree impurity importance,XGBoost
+text__facebook owner,0.0,,tree impurity importance,XGBoost
+text__faces,0.0,,tree impurity importance,XGBoost
+text__facial,0.0,,tree impurity importance,XGBoost
+text__facial recognition,0.0,,tree impurity importance,XGBoost
+text__facing,0.0,,tree impurity importance,XGBoost
+text__fact,0.0,,tree impurity importance,XGBoost
+text__failed,0.0,,tree impurity importance,XGBoost
+text__falls,0.0,,tree impurity importance,XGBoost
+text__faith,0.0,,tree impurity importance,XGBoost
+text__faked,0.0,,tree impurity importance,XGBoost
+text__fakes,0.0,,tree impurity importance,XGBoost
+text__fall,0.0,,tree impurity importance,XGBoost
+text__falling,0.0,,tree impurity importance,XGBoost
+text__fallout,0.0,,tree impurity importance,XGBoost
+numeric__format_interviews,0.0,,tree impurity importance,XGBoost

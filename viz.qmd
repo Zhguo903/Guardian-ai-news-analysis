@@ -1,0 +1,25 @@
+---
+title: "Explore the Coverage"
+---
+
+Hover to inspect values, click legend entries to hide or show series, and drag to zoom. The charts summarize the retrieved corpus from January 2021 to December 2025.
+
+## Monthly article volume
+
+The broad corpus contains the union of AI-related search results. The strict corpus retains articles with stronger AI signals in tags, headlines, or summaries. Counts reflect the search and filtering rules, rather than all AI reporting or the share of the publisher's total output.
+
+<iframe title="Monthly article counts in the broad and strict corpora" src="assets/viz_monthly_volume.html" width="100%" height="620" style="border: none;"></iframe>
+
+## Section composition
+
+Monthly shares show where strict-corpus articles appeared. Sections describe editorial placement; they are not independently labeled content frames. Early months contain few strict articles, so their shares can change sharply with a small number of stories.
+
+<iframe title="Monthly section shares in the strict corpus" src="assets/viz_section_share.html" width="100%" height="620" style="border: none;"></iframe>
+
+## Topic weights
+
+Each line is the monthly mean document weight for one of six LDA topics, fitted using headlines and summaries. The lines display a trailing three-month rolling mean; hovering also shows the raw monthly weight. Topic names summarize high-weight words and may overlap. These weights are model estimates, rather than the percentage of articles assigned exclusively to a theme.
+
+<iframe title="Monthly mean LDA topic weights" src="assets/viz_topic_prevalence.html" width="100%" height="620" style="border: none;"></iframe>
+
+See the [analysis report](report.html) for topic keywords and the limits of these interpretations.

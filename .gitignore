@@ -1,0 +1,40 @@
+# Local environments and credentials
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+# Raw article content and per-article analysis stay local
+data/raw/
+data/derived/
+*.pkl
+*.pickle
+# Editor / operating-system files
+.DS_Store
+.AppleDouble
+._*
+.idea/
+.vscode/
+# Quarto caches and intermediate formats
+.quarto/
+_freeze/
+*.tex
+*.log
+*.aux
+*.out
+report.pdf
+index.pdf
+viz.pdf
+
+/.quarto/
+**/*.quarto_ipynb
+
+# Local R session state
+.Rhistory
+.RData
+.Ruserdata

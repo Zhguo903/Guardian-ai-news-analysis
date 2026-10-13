@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - viz.qmd
+    - report.qmd
+  resources:
+    - assets/**
+
+website:
+  title: "Guardian AI News Analysis"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Overview
+      - href: viz.qmd
+        text: Explore
+      - href: report.qmd
+        text: Report
+  page-footer:
+    center: "Guardian AI News Analysis · 2021–2025"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: false
+    link-external-newwindow: true
+    smooth-scroll: true

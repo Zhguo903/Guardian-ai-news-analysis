@@ -1,0 +1,29 @@
+---
+title: "Guardian AI News Analysis"
+subtitle: "Article volume, editorial placement, and topics, 2021–2025"
+---
+
+This project examines how AI-related reporting appeared across *The Guardian* between January 2021 and December 2025. It combines relevance filtering, a saved article audit, text classification, and six-topic LDA with charts that can be explored by month.
+
+The analysis asks two related questions:
+
+> How did the volume and section distribution of retrieved AI-related articles change, and how well can headline text, summaries, and metadata predict Technology/Business section membership?
+
+## What the data show
+
+- **40,232 articles** were retrieved by broad AI-related searches; **3,120** passed the stricter relevance rules.
+- The strict corpus spans **39 sections**. **53.3%** of its articles appeared outside Technology and Business.
+- Strict-corpus volume was **138 articles in 2021** and **1,229 in 2025**, with a decrease in 2024 relative to 2023.
+- In the saved relevance audit, **80 of 100** strict articles and **1 of 100** broad-but-not-strict articles were labeled core AI.
+- The saved XGBoost result reached **0.764 accuracy** and **0.750 F1** on a stratified holdout. The majority baseline achieved **0.534 accuracy**.
+
+![Monthly article counts in the broad and strict corpora.](figures/figure1_monthly_volume_broad_vs_strict.png){width=95%}
+
+These results describe a retrieved corpus from one publisher. Section membership measures editorial placement and serves only as a proxy for framing. The model scores are a saved retrospective comparison, and topic names are interpretations of word groups.
+
+## Explore the project
+
+- [Interactive charts](viz.html): monthly volume, section shares, and topic weights.
+- [Analysis report](report.html): data construction, methods, results, and limitations.
+
+The repository distributes aggregate results and audit labels. Reproducing the text models requires an authorized local article dataset; article text is not included in the public project.
